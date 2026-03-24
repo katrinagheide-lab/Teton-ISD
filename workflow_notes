@@ -1,0 +1,32 @@
+Notes for Katrina
+
+* fix csvs, and sync
+* photo and measure oligo's 
+
+Split script into "01_stitch", "02_clean_est_dw", "03_lambda", 04_analysis, 05_plots
+
+01_stitch
+* Go through script
+* Note where names/labels/file info is probably different
+
+02_clean
+* code is looking for errors
+* make sure filename separates into proper information
+* check overlap between data and LW_coefs
+* Make sure "taxon" and "label" are still correct
+* How much of the data has LW_coefs?
+* Which taxa are missing coefs?
+* Can we use related taxa coefs? (This is probably something for Justin to figure out)
+03_lambda
+* Need to incorporate x_min
+* Find a good script to send to Katrina as a template
+* Probably just going to use MLE to estimate it for now
+* download poweRlaw and sizespectra
+* devtools, etc. 
+* May eventually use isdbayes
+
+04_analysis
+* response variable = MLE estimate of lambda (probably called "b" in output"
+* Predictor variables = site, year (make sure year is a factor with first last year order")
+* 2-way ANOVA with interaction 
+* lm(b ~ site*year, data = data)
