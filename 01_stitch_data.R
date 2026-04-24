@@ -76,6 +76,7 @@ dataset <- dataset %>%
 ### it does not :(
 
 distinct(dataset, day)
+distinct(dataset, month)
 as_tibble(dataset)
 
 
@@ -84,8 +85,7 @@ dataset <- dataset %>%
   mutate(
     year = as.Date(year, format = "%Y"),
     year = year(year),
-    month = as.Date(month, format = "%m"),
-    month = month(month),
+    month = month(as.numeric(month)),
     day = as.Date(day, format = "%d"),
     day = day(day)) |>
   as_tibble()
@@ -107,9 +107,6 @@ dataset %>%
   filter(Label == "scale") %>%
   distinct(file)
 
-dataset %>%
-  filter(Label == "the house in question") %>%
-  distinct(file)
 
 # fix Label Typos ####
 
@@ -119,6 +116,9 @@ sort(unique(dataset$Label))
 # save as dat_clean once cleaned
 dat_clean <- dataset %>%
   mutate(Label = case_when(
+    ##++++++++++++++++####
+    ##+ Change lednia and zapada to "Nemouridae"
+    ##+ 
     Label == "simullidae" ~ "Simuliidae",
     Label == "baetidae" ~ "Baetidae",
     Label == "beetle?" ~ "Elmidae",
@@ -133,6 +133,7 @@ dat_clean <- dataset %>%
     Label == "chronomidae" ~ "Chironomidae",
     Label == "limnephilidae" ~ "Limnephilidae",
     Label == "oligiochaeta" ~ "Oligochaeta",
+    Label == "oligo" ~ "Oligochaeta",
     Label == "oligochaeta" ~ "Oligochaeta",
     Label == "oloigochaeta" ~ "Oligochaeta",
     Label == "perlodidae" ~ "Perlodidae",
@@ -144,6 +145,8 @@ dat_clean <- dataset %>%
     Label == "simuliidae" ~ "Simuliidae",
     Label == "simullidae" ~ "Simuliidae",
     Label == "tipulidae" ~ "Tipulidae",
+    Label == "pt 2" ~ "Chironomidae",
+    Label == "plecoptera" ~ "Chloroperlidae",
     .default = Label
   )) 
 
@@ -179,7 +182,6 @@ sort(no_coef2)
 
 # percent of data that does not have lw coeffs?
 (nrow(dat_clean[dat_clean$Label %in% no_coef2,])/ nrow(dat_clean))*100
-# ~ 9.58% of data does not have lw regression equations
 
 # estimate dry weight (dw) ####
 
@@ -231,7 +233,7 @@ as_tibble(dw)
 
 
 # save data with estimated dry weights
-saveRDS(dw, "derived_data/TASR_dw.RDS")
+write_rds(dw, "derived_data/TASR_dw.rds")
 # change file path name^^^
 # make a derived data folder to save in
 
