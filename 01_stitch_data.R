@@ -54,9 +54,9 @@ dataset %>%
   distinct(Unit)
 
 
-
 dataset %>%
-  filter(Unit == "in") %>%
+  filter(
+         Unit == "in") %>% 
   group_by(file) %>%
   count() %>%
   ungroup() %>%
@@ -72,8 +72,14 @@ dataset <- dataset %>%
                    "photo_number"),
            sep = "_", remove = FALSE)
 
+### Change days to one number see if that fixes month prob below
+### it does not :(
+
+distinct(dataset, day)
 as_tibble(dataset)
-View(dataset)
+
+
+#View(dataset)
 dataset <- dataset %>%
   mutate(
     year = as.Date(year, format = "%Y"),
@@ -111,12 +117,33 @@ sort(unique(dataset$Label))
 
 # finish fixing typos!!
 # save as dat_clean once cleaned
-dataset %>%
+dat_clean <- dataset %>%
   mutate(Label = case_when(
     Label == "simullidae" ~ "Simuliidae",
-    Label == "simuliidae" ~ "Simuliidae",
+    Label == "baetidae" ~ "Baetidae",
+    Label == "beetle?" ~ "Elmidae",
     Label == "chirnomidae" ~ "Chironomidae",
-    Label == "chironomidae" ~ "Chironomidae"
+    Label == "chironomida" ~ "Chironomidae",
+    Label == "chironomidae" ~ "Chironomidae",
+    Label == "chironomidaea" ~ "Chironomidae",
+    Label == "chloroperlidae" ~ "Chironomidae",
+    Label == "chrionomidae" ~ "Chironomidae",
+    Label == "Chrionomidae" ~ "Chironomidae",
+    Label == "chrironomidae" ~ "Chironomidae",
+    Label == "chronomidae" ~ "Chironomidae",
+    Label == "limnephilidae" ~ "Limnephilidae",
+    Label == "oligiochaeta" ~ "Oligochaeta",
+    Label == "oligochaeta" ~ "Oligochaeta",
+    Label == "oloigochaeta" ~ "Oligochaeta",
+    Label == "perlodidae" ~ "Perlodidae",
+    Label == "perlolidae" ~ "Perlodidae",
+    Label == "planaria" ~ "Planaria",
+    Label == "rhyacophilia" ~ "Rhyacophilidae",
+    Label == "rhyacophilidae" ~ "Rhyacophilidae",
+    Label == "simuiidae" ~ "Simuliidae",
+    Label == "simuliidae" ~ "Simuliidae",
+    Label == "simullidae" ~ "Simuliidae",
+    Label == "tipulidae" ~ "Tipulidae",
     .default = Label
   )) 
 
@@ -130,6 +157,7 @@ lw_coef <- read.csv("LW_coeffs.csv")
 # which taxa don't have lw coefs?
 no_coef <- setdiff(unique(dat_clean$Label), unique(lw_coef$taxon))
 
+# should be nothing after fixing typos
 sort(no_coef)
 
 # Using surrogate equations for these taxa
@@ -137,13 +165,13 @@ sort(no_coef)
 # Psychodidae --> Empididae
 # Uenoidae --> Limnephilidae
 # Hydroptilidae --> Rhyacophilidae
-dat_clean <- dat_clean %>%
-  mutate(Label = case_when(
-    Label == "Psychodidae" ~ "Empididae",
-    Label == "Uenoidae" ~ "Limnephilidae",
-    Label == "Hydroptilidae" ~"Rhyacophilidae",
-    .default = Label
-  )) 
+# dat_clean <- dat_clean %>%
+#   mutate(Label = case_when(
+#     Label == "Psychodidae" ~ "Empididae",
+#     Label == "Uenoidae" ~ "Limnephilidae",
+#     Label == "Hydroptilidae" ~"Rhyacophilidae",
+#     .default = Label
+#   )) 
 
 no_coef2 <- setdiff(unique(dat_clean$Label), unique(lw_coef$taxon))
 
@@ -171,7 +199,8 @@ equations <- lw_coef[lw_coef$taxon %in% unique(dat_clean$Label),]
 # join the ark data with lw coef values
 fulldat <- merge(dat_clean, lw_coef[,lw_cols], 
                  by.x = "Label",
-                 by.y = "taxon", all.x = FALSE)
+                 by.y = "taxon", 
+                 all.x = FALSE)
 
 # dimensions of the ark and merged data
 dim(dataset)
@@ -198,11 +227,11 @@ nrow(dw)
 
 names(dw)
 
-dw
+as_tibble(dw)
 
 
 # save data with estimated dry weights
-saveRDS(dw, "cmu/derived_data/cmu_ark_dw.RDS")
+saveRDS(dw, "derived_data/TASR_dw.RDS")
 # change file path name^^^
 # make a derived data folder to save in
 
