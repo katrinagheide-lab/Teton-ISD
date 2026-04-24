@@ -1,1 +1,25 @@
-Label,Type,Value,Unit,"oligo",Perimeter,"2.53","mm""oligo",Perimeter,"2.58","mm""oligo",Perimeter,"4.37","mm""oligo",Perimeter,"2.31","mm""pt 2",Perimeter,"2.27","mm""pt 2",Perimeter,"1.45","mm""pt 2",Perimeter,"3.02","mm""pt 2",Perimeter,"3.08","mm""pt 2",Perimeter,"4.20","mm""pt 2",Perimeter,"3.94","mm""pt 2",Perimeter,"3.35","mm""pt 2",Perimeter,"2.38","mm""pt 2",Perimeter,"2.55","mm""pt 2",Perimeter,"3.92","mm""pt 2",Perimeter,"4.08","mm""pt 2",Perimeter,"4.09","mm""pt 2",Perimeter,"3.49","mm""pt 2",Perimeter,"2.20","mm""pt 2",Perimeter,"3.54","mm""pt 2",Perimeter,"2.75","mm""chironomidae",Perimeter,"4.28","mm""pt 2",Perimeter,"3.30","mm""pt 2",Perimeter,"2.74","mm""pt 2",Distance,"9.92","mm"
+Label,Type,Value,Unit
+oligochaeta,Perimeter,2.53,mm
+oligochaeta,Perimeter,2.58,mm
+oligochaeta,Perimeter,4.37,mm
+oligochaeta,Perimeter,2.31,mm
+chironomidae,Perimeter,2.27,mm
+chironomidae,Perimeter,1.45,mm
+chironomidae,Perimeter,3.02,mm
+chironomidae,Perimeter,3.08,mm
+chironomidae,Perimeter,4.2,mm
+chironomidae,Perimeter,3.94,mm
+chironomidae,Perimeter,3.35,mm
+chironomidae,Perimeter,2.38,mm
+chironomidae,Perimeter,2.55,mm
+chironomidae,Perimeter,3.92,mm
+chironomidae,Perimeter,4.08,mm
+chironomidae,Perimeter,4.09,mm
+chironomidae,Perimeter,3.49,mm
+chironomidae,Perimeter,2.2,mm
+chironomidae,Perimeter,3.54,mm
+chironomidae,Perimeter,2.75,mm
+chironomidae,Perimeter,4.28,mm
+chironomidae,Perimeter,3.3,mm
+chironomidae,Perimeter,2.74,mm
+chironomidae,Distance,9.92,mm
