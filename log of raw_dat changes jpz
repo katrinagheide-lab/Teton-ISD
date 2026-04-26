@@ -1,0 +1,32 @@
+log of fixed files
+
+All of the following chnages were made to files in the "raw_dat/" folder in RStudio
+
+I accidentally changed a couple on the cloud folder, but did not change all of them there. 
+
+source("01_stitch_data.R")
+
+DELT_01_LG_2018_08_02_059.csv
+- measurements were ~10* longer
+- scae bar was still in inches - cause??
+- manually editted csv by dividing values by 10
+- i.e., Value was entered as 64.24 --> changed to 6.424
+
+DELT_01_SM_2018_08_02_118.csv
+- one chironomidae measured as 36 inches
+- should be removed in R during data cleaning, but I deleted it from the csv just in case
+
+DELT_02_SM_2018_08_02_172.csv
+- one chiro as 35 inches, deleted
+
+GRIZ_03_MB_2024_08_06_169.csv
+- Rhyacophilidae is Glossosomatidae, changed label
+
+GRIZ_MB_NA_2024_08_06_006.csv
+- Rhyacophilidae is Glossosomatidae, changed label
+
+GRIZ_MB_NA_2024_08_06_005.csv
+- one rhya was glosso, changed label
+
+DELT_03_NA_2024_08_06_319.csv
+- Rhyacophilidae is Glossosomatidae, changed label
