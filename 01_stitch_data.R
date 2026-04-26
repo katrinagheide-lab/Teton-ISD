@@ -72,8 +72,6 @@ dataset <- dataset %>%
                    "photo_number"),
            sep = "_", remove = FALSE)
 
-### Change days to one number see if that fixes month prob below
-### it does not :(
 
 distinct(dataset, day)
 distinct(dataset, month)
@@ -150,8 +148,7 @@ dat_clean <- dataset %>%
     .default = Label
   )) 
 
-dat_clean %>%
-  filter(Label == "Non-insects")
+sort(unique(dat_clean$Label))
 
 
 # read in csv with length weight equations
@@ -163,22 +160,6 @@ no_coef <- setdiff(unique(dat_clean$Label), unique(lw_coef$taxon))
 # should be nothing after fixing typos
 sort(no_coef)
 
-# Using surrogate equations for these taxa
-# Morley et al. 2020 Plos One
-# Psychodidae --> Empididae
-# Uenoidae --> Limnephilidae
-# Hydroptilidae --> Rhyacophilidae
-# dat_clean <- dat_clean %>%
-#   mutate(Label = case_when(
-#     Label == "Psychodidae" ~ "Empididae",
-#     Label == "Uenoidae" ~ "Limnephilidae",
-#     Label == "Hydroptilidae" ~"Rhyacophilidae",
-#     .default = Label
-#   )) 
-
-no_coef2 <- setdiff(unique(dat_clean$Label), unique(lw_coef$taxon))
-
-sort(no_coef2)
 
 # percent of data that does not have lw coeffs?
 (nrow(dat_clean[dat_clean$Label %in% no_coef2,])/ nrow(dat_clean))*100
@@ -222,7 +203,7 @@ names(fulldat)
 # remove any dry weight values < or = to 0
 dw <- fulldat %>%
   filter(dw >0) %>%
-  select(site, rep, year, month, file, dw)
+  select(site, rep, year, month, file, Label, Value, dw)
 
 nrow(fulldat)
 nrow(dw)
