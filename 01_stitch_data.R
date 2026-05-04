@@ -145,6 +145,7 @@ dat_clean <- dataset %>%
     Label == "tipulidae" ~ "Tipulidae",
     Label == "pt 2" ~ "Chironomidae",
     Label == "plecoptera" ~ "Chloroperlidae",
+    Label == "Tipuliidae" ~ "Tipulidae",
     .default = Label
   )) 
 
