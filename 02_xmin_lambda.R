@@ -217,6 +217,34 @@ isd_result |>
   geom_line(position = position_dodge(width = 0.5)) +
   NULL
 
+site_mat <- tibble(site = rep(c("DELT", "GRIZ", "SCAS"), each = 2),
+                   year = rep(c(2018, 2024), 3),
+                   mat = c(1.75, 1.91,
+                           7.10, 10.71,
+                           2.15, 1.90))
+
+isd_result <- left_join(isd_result, site_mat)
+
+isd_result |>
+  ggplot(aes(x = mat, 
+             y = b,
+             ymin = CI_low, 
+             ymax = CI_high,
+             color = site)) +
+  geom_pointrange(
+    size = 1) +
+  # scale_color_manual(values = c("#019AFF", "#FF1984")) +
+  # scale_fill_manual(values = c("#019AFF", "#FF1984")) +
+  theme_bw() +
+  labs(y = "Estimated \U03BB") +
+  #geom_line(position = position_dodge(width = 0.5)) +
+  stat_smooth(inherit.aes = FALSE,
+              aes(x = mat, y = b), 
+              method = "lm") +
+  NULL
+
+summary(lm(b~mat, dat = isd_result))
+summary(lmerTest::lmer(b~mat + (1|site) + (1|year), dat = isd_result))
 
 
 dat |>
