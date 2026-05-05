@@ -17,6 +17,7 @@ dat |>
 
 
 mle_dat_list <- dat |>
+  #filter(dw>=xmin_clauset) |>
   filter(dw>=0.0387) |>
   group_by(site, year) |>
   group_split()
