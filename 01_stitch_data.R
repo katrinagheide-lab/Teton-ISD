@@ -40,7 +40,7 @@ for (i in 1:length(meas)){
 # time for code to run?
 end_time <- Sys.time()
 end_time - start_time
-
+distinct(dataset, Label)
 
 
 # check data for errors
@@ -124,7 +124,7 @@ dat_clean <- dataset %>%
     Label == "chironomida" ~ "Chironomidae",
     Label == "chironomidae" ~ "Chironomidae",
     Label == "chironomidaea" ~ "Chironomidae",
-    Label == "chloroperlidae" ~ "Chironomidae",
+    Label == "chloroperlidae" ~ "Chloroperlidae",
     Label == "chrionomidae" ~ "Chironomidae",
     Label == "Chrionomidae" ~ "Chironomidae",
     Label == "chrironomidae" ~ "Chironomidae",
@@ -139,6 +139,9 @@ dat_clean <- dataset %>%
     Label == "planaria" ~ "Planaria",
     Label == "rhyacophilia" ~ "Rhyacophilidae",
     Label == "rhyacophilidae" ~ "Rhyacophilidae",
+    Label == "Glossosomatidae" ~ "Rhyacophilidae",
+    # There are no glossosomatidae in the TASR data set from previous years
+    # I chnaged them all back to rhyacophila
     Label == "simuiidae" ~ "Simuliidae",
     Label == "simuliidae" ~ "Simuliidae",
     Label == "simullidae" ~ "Simuliidae",

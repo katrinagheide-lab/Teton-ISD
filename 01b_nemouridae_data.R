@@ -9,6 +9,12 @@ meas <- list.files(upperDir, full.names=TRUE)
 # just the file name of each csv
 filename <- list.files(upperDir) 
 
+# nem_filename <- list.files("Nemouridae-data") 
+# raw_filename <- list.files("raw_dat") 
+# nem_filename
+# setdiff(nem_filename, raw_filename)
+#setdiff(raw_filename, nem_filename)
+
 # number of files?
 length(filename)
 
