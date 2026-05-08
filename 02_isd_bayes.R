@@ -9,11 +9,7 @@ library(isdbayes)
 library(tidybayes)
 
 # make sure path to your data is correct
-dat <- read_rds("derived_data/TASR_dw.RDS")
-nem <- read_rds("derived_data/TASR_nemouridae_dw.RDS")
-dat <- bind_rows(dat, nem)
-dat <- as_tibble(dat)
-dat
+dat <- read_rds("derived_data/TASR_all_dw.rds")
 
 ##=================
 # read in zapada data

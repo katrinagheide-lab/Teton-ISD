@@ -16,6 +16,12 @@ DELT_01_SM_2018_08_02_118.csv
 - one chironomidae measured as 36 inches
 - should be removed in R during data cleaning, but I deleted it from the csv just in case
 
+
+########
+I looked at the TASR data from previous years and glososomatidae has never been found here. 
+Instead of going back to change the raw data files back, I fixed it in the 01_stitch data script
+Keeping the below notes for posterity. 
+
 DELT_02_SM_2018_08_02_172.csv
 - one chiro as 35 inches, deleted
 
