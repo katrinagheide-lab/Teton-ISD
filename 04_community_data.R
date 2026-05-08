@@ -27,7 +27,7 @@ distinct(rp18, Taxa)
 # filter out sites for Ruth Powell analysis
 rp24 <- tasr_2024 |>
   filter(Site %in% c("Delta Lake Inlet", "Grizzly", "South Cascade RG")) |>
-  select(Year, Site, Rep, Subsample...8, Taxa, Abundance, Density_ind_m2)
+  select(Year, Site, Rep, Subsample...8, Taxa, Abundance, Density_ind_m2, Biomass_mg_m2)
 
 rp24
 distinct(rp24, Taxa)
@@ -44,7 +44,9 @@ ffg_pred <- tibble(Taxa = c("2Megarcys",
                             "Simuliidae"),
                    Pred = 1)
 
+# Abundance
 # plot proportion of taxa which are classified as predators
+# Abundance
 rp24 |>
   left_join(ffg_pred) |>
   mutate(Pred = case_when(is.na(Pred) ~ 0, .default = Pred)) |>
@@ -60,6 +62,8 @@ rp24 |>
              y = taxa_prop,
              fill = as.factor(Pred))) +
   geom_col()
+
+
   
 # predators as a proportion of total abundance
 rp24_pred <- rp24 |>
