@@ -110,19 +110,56 @@ dat |>
 # total predator biomass
 dat |> 
   left_join(ffg_pred) |>
-  mutate(pred = case_when(is.na(pred) ~ 0, .default = pred)) |>
-  group_by(site, year, pred) |>
+  mutate(predator = as.factor(case_when(is.na(pred) ~ "No", .default = "Yes"))) |>
+  group_by(site, year, predator) |>
   summarize(biomass = sum(dw)) |>
   ungroup() |>
   group_by(site, year) |>
   mutate(tot_biomass = sum(biomass),
          prop_biomass = biomass / tot_biomass) |>
   #filter(pred == 1) |>
-  ggplot(aes(x = year, 
+  ggplot(aes(x = as.factor(year), 
              y = prop_biomass,
-             fill = as.factor(pred))) +
+             fill = predator)) +
   geom_col() +
   theme_bw() +
   labs(title = "Proportion of Biomass",
-       y = "Dry weight") +
-  facet_wrap(~site)
+       y = "Dry weight",
+       x = "Year") +
+  facet_wrap(~site) +
+  scale_fill_viridis_d(option = "turbo", 
+                       direction = 1,
+                       begin = 0,
+                       end = 0.15) +
+  NULL
+ggsave("plots/predator_biomass_proportion.png",
+       units = "in",
+       height = 7,
+       width = 7)
+
+# total biomass
+dat |> 
+  left_join(ffg_pred) |>
+  mutate(predator = as.factor(case_when(is.na(pred) ~ "No", .default = "Yes"))) |>
+  group_by(site, year, predator) |>
+  summarize(biomass = sum(dw)) |>
+  ggplot(aes(x = as.factor(year), 
+             y = biomass,
+             fill = predator)) +
+  geom_col() +
+  theme_bw() +
+  labs(title = "Sum of Biomass",
+       y = "Dry weight",
+       x = "Year") +
+  facet_wrap(~site) +
+  scale_fill_viridis_d(option = "turbo", 
+                       direction = 1,
+                       begin = 0,
+                       end = 0.15) +
+  NULL
+ggsave("plots/predator_biomass_sum.png",
+       units = "in",
+       height = 7,
+       width = 7)
+
+
