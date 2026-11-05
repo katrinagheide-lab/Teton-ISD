@@ -1,0 +1,292 @@
+Park,Sampler,Stream,Date,Rep,Fraction,NoSurbers ,Taxa,L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L13,L14,L15,L16,L17,L18,L19,L20,MeanLength(mm),IndBiomass(mg/ind),Unmeasured,Subsample,Abundance ,Density (ind/m2),Biomass (mg/m2),Notes,orig
+GTNP,surber,Alaska Basin South,31-Aug-18,1,lg,1,1Megarcys,17,,,,,,,,,,,,,,,,,,,,17,17.71,0,1,1,11,190.65,older/larger cohort,36
+GTNP,surber,Alaska Basin South,31-Aug-18,1,lg,1,2Megarcys,4,3,3,4,,,,,,,,,,,,,,,,,3.5,0.27,0,1,4,43,11.43,younger/smaller cohort,37
+GTNP,surber,Alaska Basin South,31-Aug-18,1,lg,1,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.18,0,1,1,11,12.74,,42
+GTNP,surber,Alaska Basin South,31-Aug-18,1,lg,1,Baetis,9,8,3,3,4,,,,,,,,,,,,,,,,5.4,0.67,0,1,5,54,35.94,,39
+GTNP,surber,Alaska Basin South,31-Aug-18,1,lg,1,Cinygmula,5,4,3,,,,,,,,,,,,,,,,,,4,1.1,0,1,3,32,35.39,,38
+GTNP,surber,Alaska Basin South,31-Aug-18,1,lg,1,Non-Tanypodinae,2,2,2,3,3,3,3,2,2,2,2,2,2,3,3,4,3,3,3,2,2.6,0.01,41,1,61,657,5,,35
+GTNP,surber,Alaska Basin South,31-Aug-18,1,lg,1,Oligochaeta,4,3,3,3,4,,,,,,,,,,,,,,,,3.4,0.27,0,1,5,54,14.62,,40
+GTNP,surber,Alaska Basin South,31-Aug-18,1,lg,1,Turbellaria,3,4,3,,,,,,,,,,,,,,,,,,3.3,0.08,0,1,3,32,2.55,,41
+GTNP,surber,Alaska Basin South,31-Aug-18,1,lg,1,Zapada,3,3,4,,,,,,,,,,,,,,,,,,3.3,0.13,0,1,3,32,4.23,removed,43
+GTNP,surber,Alaska Basin South,31-Aug-18,1,sm,1,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.18,0,1,1,11,12.74,,49
+GTNP,surber,Alaska Basin South,31-Aug-18,1,sm,1,Baetis,3,3,3,,,,,,,,,,,,,,,,,,3,0.13,0,1,3,32,4.36,,47
+GTNP,surber,Alaska Basin South,31-Aug-18,1,sm,1,Cinygmula,3,3,3,3,5,,,,,,,,,,,,,,,,3.4,0.7,0,1,5,54,37.85,,45
+GTNP,surber,Alaska Basin South,31-Aug-18,1,sm,1,Heterocloeon,2,2,,,,,,,,,,,,,,,,,,,2,0.03,0,1,2,22,0.74,,46
+GTNP,surber,Alaska Basin South,31-Aug-18,1,sm,1,Non-Tanypodinae,3,3,3,2,2,2,2,2,3,3,2,2,2,3,3,2,2,2,2,2,2.4,0.01,176,1,196,2110,12.82,,44
+GTNP,surber,Alaska Basin South,31-Aug-18,1,sm,1,Rhyacophila,5,,,,,,,,,,,,,,,,,,,,5,0.54,0,1,1,11,5.77,removed,50
+GTNP,surber,Alaska Basin South,31-Aug-18,1,sm,1,Turbellaria,1,3,1,,,,,,,,,,,,,,,,,,1.7,0.02,0,1,3,32,0.56,,48
+GTNP,surber,Alaska Basin South,31-Aug-18,1,sm,1,Zapada,2,2,2,2,4,3,,,,,,,,,,,,,,,2.5,0.06,0,1,6,65,3.97,removed,51
+GTNP,surber,Alaska Basin South,31-Aug-18,2,lg,1,2Megarcys,3,,,,,,,,,,,,,,,,,,,,3,0.18,0,1,1,11,1.9,younger/smaller cohort,54
+GTNP,surber,Alaska Basin South,31-Aug-18,2,lg,1,Allomyia,8,,,,,,,,,,,,,,,,,,,,8,0.93,0,1,1,11,9.98,removed,60
+GTNP,surber,Alaska Basin South,31-Aug-18,2,lg,1,Baetis,7,,,,,,,,,,,,,,,,,,,,7,1.35,0,1,1,11,14.56,,57
+GTNP,surber,Alaska Basin South,31-Aug-18,2,lg,1,Cinygmula,4,4,5,4,3,2,4,,,,,,,,,,,,,,3.7,0.9,0,1,7,75,67.46,,56
+GTNP,surber,Alaska Basin South,31-Aug-18,2,lg,1,Heterocloeon,7,,,,,,,,,,,,,,,,,,,,7,1.04,0,1,1,11,11.16,,58
+GTNP,surber,Alaska Basin South,31-Aug-18,2,lg,1,Non-Tanypodinae,3,3,3,3,3,3,3,3,3,4,3,3,3,3,2,2,2,3,3,4,3,0.01,112,1,132,1421,16.21,,52
+GTNP,surber,Alaska Basin South,31-Aug-18,2,lg,1,Pomoleuctra,9,,,,,,,,,,,,,,,,,,,,9,,0,1,1,11,0,,55
+GTNP,surber,Alaska Basin South,31-Aug-18,2,lg,1,Sweltsa,9,,,,,,,,,,,,,,,,,,,,9,2.46,0,1,1,11,26.53,,53
+GTNP,surber,Alaska Basin South,31-Aug-18,2,lg,1,Turbellaria,4,,,,,,,,,,,,,,,,,,,,4,0.12,0,1,1,11,1.27,,59
+GTNP,surber,Alaska Basin South,31-Aug-18,2,lg,1,Zapada,2,2,2,3,3,3,,,,,,,,,,,,,,,2.5,0.06,0,1,6,65,3.97,removed,61
+GTNP,surber,Alaska Basin South,31-Aug-18,2,sm,1,2Megarcys,3,3,3,,,,,,,,,,,,,,,,,,3,0.18,0,1,3,32,5.69,younger/smaller cohort,64
+GTNP,surber,Alaska Basin South,31-Aug-18,2,sm,1,Acari,1,1,1,1,1,1,1,1,,,,,,,,,,,,,1,1.18,0,1,8,86,101.9,,68
+GTNP,surber,Alaska Basin South,31-Aug-18,2,sm,1,Baetis,3,,,,,,,,,,,,,,,,,,,,3,0.13,0,1,1,11,1.45,,66
+GTNP,surber,Alaska Basin South,31-Aug-18,2,sm,1,Cinygmula,4,5,3,4,4,,,,,,,,,,,,,,,,4,1.1,0,1,5,54,58.99,,65
+GTNP,surber,Alaska Basin South,31-Aug-18,2,sm,1,Non-Tanypodinae,1,2,2,2,3,3,3,2,2,2,2,2,2,3,3,3,2,2,2,2,2.3,0.01,170,1,190,2045,11.02,,62
+GTNP,surber,Alaska Basin South,31-Aug-18,2,sm,1,Oligochaeta,2,2,3,4,2,2,2,2,3,,,,,,,,,,,,2.4,0.2,0,1,9,97,18.92,,69
+GTNP,surber,Alaska Basin South,31-Aug-18,2,sm,1,Sweltsa,4,,,,,,,,,,,,,,,,,,,,4,0.27,0,1,1,11,2.91,,63
+GTNP,surber,Alaska Basin South,31-Aug-18,2,sm,1,Turbellaria,3,3,3,,,,,,,,,,,,,,,,,,3,0.06,0,1,3,32,2.02,,67
+GTNP,surber,Alaska Basin South,31-Aug-18,2,sm,1,Zapada,4,3,3,,,,,,,,,,,,,,,,,,3.3,0.13,0,1,3,32,4.23,removed,70
+GTNP,surber,Alaska Basin South,31-Aug-18,3,whole,1,2Megarcys,3,3,,,,,,,,,,,,,,,,,,,3,0.18,0,1,2,22,3.79,younger/smaller cohort,73
+ABW,surber,Alaska Basin South,31-Aug-18,3,whole,1,Acari,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,1,1.18,0,1,15,161,191.07,,77
+ABW,surber,Alaska Basin South,31-Aug-18,3,whole,1,Allomyia,4,,,,,,,,,,,,,,,,,,,,4,0.11,0,1,1,11,1.15,removed,79
+GTNP,surber,Alaska Basin South,31-Aug-18,3,whole,1,Baetis,4,3,,,,,,,,,,,,,,,,,,,3.5,0.21,0,1,2,22,4.42,,75
+GTNP,surber,Alaska Basin South,31-Aug-18,3,whole,1,Cinygmula,4,4,4,5,3,,,,,,,,,,,,,,,,4,1.1,0,1,5,54,58.99,,74
+GTNP,surber,Alaska Basin South,31-Aug-18,3,whole,1,Clinocera,3,,,,,,,,,,,,,,,,,,,,3,0.1,0,1,1,11,1.03,,72
+GTNP,surber,Alaska Basin South,31-Aug-18,3,whole,1,Non-Tanypodinae,2,2,2,2,2,2,3,3,3,3,4,3,3,2,2,2,3,3,3,3,2.6,0.01,190,1,210,2260,18.18,,71
+ABW,surber,Alaska Basin South,31-Aug-18,3,whole,1,Oligochaeta,3,3,2,2,4,6,3,,,,,,,,,,,,,,3.3,0.26,0,1,7,75,19.78,,78
+GTNP,surber,Alaska Basin South,31-Aug-18,3,whole,1,Turbellaria,3,3,1,4,2,3,3,,,,,,,,,,,,,,2.7,0.05,0,1,7,75,3.79,,76
+ABW,surber,Alaska Basin South,31-Aug-18,3,whole,1,Zapada,5,5,5,4,1,,,,,,,,,,,,,,,,4,0.21,0,1,5,54,11.39,removed,80
+GTNP,surber,Delta Lake,2-Aug-18,1,lg,1,2Megarcys,6,,,,,,,,,,,,,,,,,,,,6,1.11,0,1,1,11,11.97,younger/smaller cohort,202
+GTNP,surber,Delta Lake,2-Aug-18,1,lg,1,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.18,0,1,1,11,12.74,,200
+GTNP,surber,Delta Lake,2-Aug-18,1,lg,1,Baetis,8,8,4,,,,,,,,,,,,,,,,,,6.7,1.18,0,1,3,32,38.25,,198
+GTNP,surber,Delta Lake,2-Aug-18,1,lg,1,Chironomidae pupa,1,,,,,,,,,,,,,,,,,,,,1,0,0,1,1,11,0.01,,197
+GTNP,surber,Delta Lake,2-Aug-18,1,lg,1,Lednia,6,6,7,,,,,,,,,,,,,,,,,,6.3,0.71,0,1,3,32,22.92,removed,206
+GTNP,surber,Delta Lake,2-Aug-18,1,lg,1,Non-Tanypodinae,2,2,3,5,6,2,3,4,7,8,2,2,2,3,2,3,5,7,2,7,3.9,0.02,502,1,522,5619,134.05,,196
+GTNP,surber,Delta Lake,2-Aug-18,1,lg,1,Oligochaeta,3,3,5,4,3,2,4,4,5,6,,,,,,,,,,,3.9,0.31,0,1,10,108,33.53,,201
+GTNP,surber,Delta Lake,2-Aug-18,1,lg,1,Staphylinidae,5,,,,,,,,,,,,,,,,,,,,5,0.65,0,1,1,11,7.02,,204
+GTNP,surber,Delta Lake,2-Aug-18,1,lg,1,Sweltsa,10,,,,,,,,,,,,,,,,,,,,10,3.28,0,1,1,11,35.35,,203
+GTNP,surber,Delta Lake,2-Aug-18,1,lg,1,Turbellaria,3,4,5,5,,,,,,,,,,,,,,,,,4.3,0.13,0,1,4,43,5.8,,199
+GTNP,surber,Delta Lake,2-Aug-18,1,lg,1,Zapada,4,1,2,5,5,4,5,5,4,2,2,3,3,4,6,3,4,4,4,5,3.8,0.18,97,1,117,1259,224.88,removed,205
+GTNP,surber,Delta Lake,2-Aug-18,1,sm,1,Acari,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,,,1,1.18,0,1,13,140,165.59,sample partially dried out,211
+GTNP,surber,Delta Lake,2-Aug-18,1,sm,1,Baetis,3,,,,,,,,,,,,,,,,,,,,3,0.13,0,1,1,11,1.45,sample partially dried out,210
+GTNP,surber,Delta Lake,2-Aug-18,1,sm,1,Chironomidae pupa,2,1,3,,,,,,,,,,,,,,,,,,2,0,0,1,3,32,0.13,sample partially dried out,209
+GTNP,surber,Delta Lake,2-Aug-18,1,sm,1,Dicranota,6,,,,,,,,,,,,,,,,,,,,6,0.29,0,1,1,11,3.11,sample partially dried out,208
+GTNP,surber,Delta Lake,2-Aug-18,1,sm,1,Non-Tanypodinae,2,2,2,3,5,1,2,2,3,5,2,2,4,4,4,2,2,4,5,5,3.1,0.01,654,1,674,7255,90.79,sample partially dried out,207
+GTNP,surber,Delta Lake,2-Aug-18,1,sm,1,Zapada,4,4,3,3,2,2,4,2,2,2,3,1,2,2,3,3,2,2,4,2,2.6,0.07,83,1,103,1109,75.48,"removed, sample partially driedout",212
+GTNP,surber,Delta Lake,2-Aug-18,2,lg,1,2Megarcys,6,7,6,8,3,5,9,6,5,6,,,,,,,,,,,6.1,1.16,0,1,10,108,125.06,younger/smaller cohort,216
+GTNP,surber,Delta Lake,2-Aug-18,2,lg,1,Dicranota,9,,,,,,,,,,,,,,,,,,,,9,0.84,0,1,1,11,9.07,,215
+GTNP,surber,Delta Lake,2-Aug-18,2,lg,1,Non-Tanypodinae,4,4,4,3,3,7,6,6,5,4,4,4,3,3,2,1,3,4,4,12,4.3,0.03,290,1,310,3337,108.13,,213
+GTNP,surber,Delta Lake,2-Aug-18,2,lg,1,Oligochaeta,4,4,4,3,4,3,2,3,4,5,2,3,3,4,4,,,,,,3.5,0.28,0,1,15,161,44.71,,217
+GTNP,surber,Delta Lake,2-Aug-18,2,lg,1,Prosimulium,5,,,,,,,,,,,,,,,,,,,,5,0.29,0,1,1,11,3.13,,214
+GTNP,surber,Delta Lake,2-Aug-18,2,lg,1,Turbellaria,2,3,4,4,4,,,,,,,,,,,,,,,,3.4,0.08,0,1,5,54,4.44,,218
+GTNP,surber,Delta Lake,2-Aug-18,2,lg,1,Zapada,4,4,4,4,5,4,3,4,4,4,2,3,4,5,5,2,4,5,5,5,4,0.21,11,1,31,334,70.62,removed,219
+GTNP,surber,Delta Lake,2-Aug-18,2,sm,1,2Megarcys,3,4,,,,,,,,,,,,,,,,,,,3.5,0.27,0,1,2,22,5.71,younger/smaller cohort,223
+GTNP,surber,Delta Lake,2-Aug-18,2,sm,1,Acari,1,1,1,1,1,1,1,1,,,,,,,,,,,,,1,1.18,0,1,8,86,101.9,,224
+GTNP,surber,Delta Lake,2-Aug-18,2,sm,1,Chironomidae pupa,4,3,3,3,3,3,4,3,4,3,3,2,3,4,,,,,,,3.2,0.01,0,1,14,151,2.18,,222
+GTNP,surber,Delta Lake,2-Aug-18,2,sm,1,Non-Tanypodinae,3,3,4,4,5,2,2,2,3,3,2,2,3,4,4,2,3,3,3,4,3.1,0.01,664,1,684,7363,92.14,,220
+GTNP,surber,Delta Lake,2-Aug-18,2,sm,1,Oligochaeta,3,3,3,4,4,2,3,4,5,4,4,4,3,3,3,4,3,4,4,5,3.6,0.29,43,1,63,678,195,,226
+GTNP,surber,Delta Lake,2-Aug-18,2,sm,1,Prosimulium,5,5,4,,,,,,,,,,,,,,,,,,4.7,0.24,0,1,3,32,7.88,,221
+GTNP,surber,Delta Lake,2-Aug-18,2,sm,1,Turbellaria,4,4,3,3,3,4,,,,,,,,,,,,,,,3.5,0.09,0,1,6,65,5.68,,225
+GTNP,surber,Delta Lake,2-Aug-18,2,sm,1,Zapada,4,4,2,2,2,2,4,2,2,2,2,3,2,2,4,2,2,2,3,3,2.6,0.06,87,1,107,1152,74.5,removed,227
+GTNP,surber,Delta Lake,2-Aug-18,3,lg,1,Dicranota,11,,,,,,,,,,,,,,,,,,,,11,1.43,0,1,1,11,15.39,,229
+GTNP,surber,Delta Lake,2-Aug-18,3,lg,1,Lednia,5,,,,,,,,,,,,,,,,,,,,5,0.38,0,1,1,11,4.1,removed,233
+GTNP,surber,Delta Lake,2-Aug-18,3,lg,1,Non-Tanypodinae,4,4,5,6,7,6,6,7,8,10,3,4,5,11,7,5,6,7,9,11,6.6,0.1,252,1,272,2928,304.38,,228
+GTNP,surber,Delta Lake,2-Aug-18,3,lg,1,Oligochaeta,31,38,3,3,4,3,3,3,3,2,3,3,4,4,4,3,3,3,4,2,6.3,0.5,6,1,26,280,140.83,,231
+GTNP,surber,Delta Lake,2-Aug-18,3,lg,1,Rhyacophila,11,,,,,,,,,,,,,,,,,,,,11,3.79,0,1,1,11,40.76,removed,232
+GTNP,surber,Delta Lake,2-Aug-18,3,lg,1,Turbellaria,4,5,,,,,,,,,,,,,,,,,,,4.5,0.15,0,1,2,22,3.29,,230
+ABW,surber,Delta Lake,2-Aug-18,3,lg,1,Zapada,5,4,6,4,5,4,,,,,,,,,,,,,,,4.7,0.32,0,1,6,65,20.51,removed,234
+ABW,surber,Delta Lake,2-Aug-18,3,sm,1,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.18,0,1,1,11,12.74,,239
+ABW,surber,Delta Lake,2-Aug-18,3,sm,1,Baetis,4,3,4,,,,,,,,,,,,,,,,,,3.7,0.23,0,1,3,32,7.52,,237
+ABW,surber,Delta Lake,2-Aug-18,3,sm,1,Chironomidae pupa,3,4,3,3,3,,,,,,,,,,,,,,,,3.2,0.01,0,1,5,54,0.77,,236
+ABW,surber,Delta Lake,2-Aug-18,3,sm,1,Non-Tanypodinae,2,3,4,2,3,4,3,3,3,2,4,5,2,2,3,2,5,4,3,3,3.1,0.01,361,1,381,4101,53.69,,235
+ABW,surber,Delta Lake,2-Aug-18,3,sm,1,Oligochaeta,2,3,3,4,4,2,3,4,5,4,4,4,4,3,3,2,2,3,3,4,3.3,0.26,61,1,81,872,229.82,,241
+ABW,surber,Delta Lake,2-Aug-18,3,sm,1,Sweltsa,3,4,,,,,,,,,,,,,,,,,,,3.5,0.19,0,1,2,22,4.05,,238
+ABW,surber,Delta Lake,2-Aug-18,3,sm,1,Turbellaria,4,3,4,2,2,,,,,,,,,,,,,,,,3,0.06,0,1,5,54,3.37,,240
+ABW,surber,Delta Lake,2-Aug-18,3,sm,1,Zapada,2,2,4,2,2,2,2,2,4,2,2,4,2,3,4,,,,,,2.6,0.07,0,1,15,161,10.99,removed,242
+GTNP,surber,Grizzly,3-Aug-18,1,lg,1,Non-Tanypodinae,2,2,4,4,5,4,4,4,2,2,3,3,4,4,5,4,3,3,3,2,3.4,0.02,9,1,29,312,5.07,,171
+GTNP,surber,Grizzly,3-Aug-18,1,lg,1,Oligochaeta,2,3,5,3,3,2,,,,,,,,,,,,,,,3,0.24,0,1,6,65,15.48,,173
+GTNP,surber,Grizzly,3-Aug-18,1,lg,1,Prosimulium,4,4,4,5,5,5,5,5,5,5,4,4,,,,,,,,,4.6,0.23,0,1,12,129,30.09,,172
+GTNP,surber,Grizzly,3-Aug-18,1,sm,1,Acari,1,1,1,1,,,,,,,,,,,,,,,,,1,1.18,0,1,4,43,50.95,,177
+GTNP,surber,Grizzly,3-Aug-18,1,sm,1,Collembola,2,,,,,,,,,,,,,,,,,,,,2,2.73,0,1,1,11,29.34,,178
+GTNP,surber,Grizzly,3-Aug-18,1,sm,1,Non-Tanypodinae,4,3,2,2,2,2,2,2,2,3,4,3,3,2,2,2,2,2,3,4,2.6,0.01,153,1,173,1862,14.19,,174
+GTNP,surber,Grizzly,3-Aug-18,1,sm,1,Oligochaeta,3,5,2,2,2,2,2,2,3,2,2,2,3,3,4,3,3,3,3,3,2.7,0.22,58,1,78,840,181.07,,176
+GTNP,surber,Grizzly,3-Aug-18,1,sm,1,Prosimulium,2,4,4,5,5,5,5,6,5,5,5,4,4,4,4,5,5,4,4,4,4.5,0.22,7,1,27,291,62.79,,175
+GTNP,surber,Grizzly,3-Aug-18,2,lg,1,Non-Tanypodinae,4,3,3,4,3,3,3,3,4,4,,,,,,,,,,,3.4,0.02,0,1,10,108,1.82,,179
+GTNP,surber,Grizzly,3-Aug-18,2,lg,1,Oligochaeta,7,,,,,,,,,,,,,,,,,,,,7,0.56,0,1,1,11,6.02,,182
+GTNP,surber,Grizzly,3-Aug-18,2,lg,1,Prosimulium,5,5,5,6,4,6,6,6,5,5,5,5,5,5,5,5,,,,,5.2,0.32,0,1,16,172,55.02,,180
+GTNP,surber,Grizzly,3-Aug-18,2,lg,1,Turbellaria,4,4,,,,,,,,,,,,,,,,,,,4,0.12,0,1,2,22,2.54,,181
+GTNP,surber,Grizzly,3-Aug-18,2,sm,1,Collembola,2,,,,,,,,,,,,,,,,,,,,2,2.73,0,1,1,11,29.34,,187
+GTNP,surber,Grizzly,3-Aug-18,2,sm,1,Non-Tanypodinae,4,4,3,2,3,2,2,2,2,3,3,4,4,4,2,2,2,2,3,5,2.9,0.01,0,1,20,215,2.34,,183
+GTNP,surber,Grizzly,3-Aug-18,2,sm,1,Oligochaeta,3,4,4,4,3,4,4,3,3,3,4,3,3,3,3,2,3,3,4,2,3.3,0.26,8,1,28,301,78.24,,186
+GTNP,surber,Grizzly,3-Aug-18,2,sm,1,Prosimulium,4,4,5,5,4,5,5,6,4,4,5,3,4,5,2,,,,,,4.3,0.2,0,1,15,161,32.6,,184
+GTNP,surber,Grizzly,3-Aug-18,2,sm,1,Turbellaria,2,3,4,4,4,2,1,2,3,2,2,3,3,4,4,1,3,2,,,2.7,0.05,0,1,18,194,9.8,,185
+GTNP,surber,Grizzly,3-Aug-18,3,lg,1,Non-Tanypodinae,3,5,5,6,6,4,3,6,2,3,4,5,1,3,4,4,4,4,5,4,4.1,0.03,62,1,82,883,24.23,,188
+GTNP,surber,Grizzly,3-Aug-18,3,lg,1,Prosimulium,5,5,6,3,5,5,5,5,4,5,5,6,6,5,5,4,5,5,5,4,4.9,0.28,4,1,24,258,71.36,,189
+GTNP,surber,Grizzly,3-Aug-18,3,lg,1,Turbellaria,4,4,2,5,4,4,4,4,3,5,5,4,5,5,2,4,5,4,3,4,4,0.12,2,1,22,237,27.92,,190
+GTNP,surber,Grizzly,3-Aug-18,3,sm,1,Acari,1,1,1,1,,,,,,,,,,,,,,,,,1,1.18,0,1,4,43,50.95,,194
+GTNP,surber,Grizzly,3-Aug-18,3,sm,1,Non-Tanypodinae,4,4,3,3,2,2,2,3,4,4,3,3,2,5,3,2,2,3,3,3,3,0.01,94,1,114,1227,14.67,,191
+GTNP,surber,Grizzly,3-Aug-18,3,sm,1,Oligochaeta,4,2,2,2,4,2,3,,,,,,,,,,,,,,2.7,0.22,0,1,7,75,16.34,,195
+GTNP,surber,Grizzly,3-Aug-18,3,sm,1,Prosimulium,5,5,5,4,4,4,5,5,4,4,5,5,5,4,4,4,3,4,4,5,4.4,0.21,50,1,70,753,158.17,,192
+GTNP,surber,Grizzly,3-Aug-18,3,sm,1,Turbellaria,3,3,4,4,2,3,4,5,4,3,2,2,3,2,3,3,4,2,2,3,3.1,0.06,58,1,78,840,54.55,,193
+GTNP,surber,Middle Teton,2-Aug-18,1,lg,1,Clinocera,8,,,,,,,,,,,,,,,,,,,,8,1.05,0,1,1,11,11.26,,153
+GTNP,surber,Middle Teton,2-Aug-18,1,lg,1,Non-Tanypodinae,9,2,3,4,4,4,6,7,7,8,8,7,6,4,3,4,4,6,8,8,5.6,0.07,116,1,136,1464,98.6,,151
+GTNP,surber,Middle Teton,2-Aug-18,1,lg,1,Prosimulium,6,6,,,,,,,,,,,,,,,,,,,6,0.46,0,1,2,22,9.97,,152
+GTNP,surber,Middle Teton,2-Aug-18,1,lg,1,Staphylinidae,4,,,,,,,,,,,,,,,,,,,,4,0.27,0,1,1,11,2.86,Adult,154
+GTNP,surber,Middle Teton,2-Aug-18,1,sm,1,Chironomidae pupa,3,3,,,,,,,,,,,,,,,,,,,3,0.01,0,1,2,22,0.26,,156
+GTNP,surber,Middle Teton,2-Aug-18,1,sm,1,Collembola,2,,,,,,,,,,,,,,,,,,,,2,2.73,0,1,1,11,29.34,,158
+GTNP,surber,Middle Teton,2-Aug-18,1,sm,1,Helodon,4,,,,,,,,,,,,,,,,,,,,4,0.16,0,1,1,11,1.77,,157
+GTNP,surber,Middle Teton,2-Aug-18,1,sm,1,Non-Tanypodinae,2,3,4,8,4,4,4,3,2,3,3,4,4,5,5,6,5,3,3,2,3.9,0.02,72,1,92,990,23.63,,155
+GTNP,surber,Middle Teton,2-Aug-18,2,lg,1,Clinocera,8,,,,,,,,,,,,,,,,,,,,8,1.05,0,1,1,11,11.26,,160
+GTNP,surber,Middle Teton,2-Aug-18,2,lg,1,Non-Tanypodinae,7,7,7,5,4,5,5,7,8,9,6,5,5,5,4,3,4,5,7,8,5.8,0.07,117,1,137,1475,109.46,,159
+GTNP,surber,Middle Teton,2-Aug-18,2,lg,1,Rhyacophila,6,,,,,,,,,,,,,,,,,,,,6,0.84,0,1,1,11,9.07,removed,161
+GTNP,surber,Middle Teton,2-Aug-18,2,sm,1,Chironomidae pupa,4,3,,,,,,,,,,,,,,,,,,,3.5,0.02,0,1,2,22,0.39,,163
+GTNP,surber,Middle Teton,2-Aug-18,2,sm,1,Helodon,5,5,5,3,,,,,,,,,,,,,,,,,4.5,0.22,0,1,4,43,9.57,,164
+GTNP,surber,Middle Teton,2-Aug-18,2,sm,1,Non-Tanypodinae,6,5,3,3,3,3,3,4,4,4,5,5,3,2,2,3,3,2,2,2,3.4,0.02,182,1,202,2174,35.28,,162
+GTNP,surber,Middle Teton,2-Aug-18,3,whole,1,Allomyia,7,,,,,,,,,,,,,,,,,,,,7,0.61,0,1,1,11,6.58,removed,169
+GTNP,surber,Middle Teton,2-Aug-18,3,whole,1,Clinocera,5,,,,,,,,,,,,,,,,,,,,5,0.33,0,1,1,11,3.58,,167
+GTNP,surber,Middle Teton,2-Aug-18,3,whole,1,Helodon,3,,,,,,,,,,,,,,,,,,,,3,0.08,0,1,1,11,0.85,,166
+GTNP,surber,Middle Teton,2-Aug-18,3,whole,1,Lednia,6,,,,,,,,,,,,,,,,,,,,6,0.62,0,1,1,11,6.63,removed,170
+GTNP,surber,Middle Teton,2-Aug-18,3,whole,1,Non-Tanypodinae,4,5,5,5,8,9,6,6,4,4,2,2,3,4,7,7,7,5,4,2,5,0.05,139,1,159,1712,81.91,,165
+GTNP,surber,Middle Teton,2-Aug-18,3,whole,1,Oligochaeta,4,,,,,,,,,,,,,,,,,,,,4,0.32,0,1,1,11,3.44,,168
+GTNP,surber,North Fork Teton Creek,30-Jul-18,1,whole,1,2Megarcys,3,,,,,,,,,,,,,,,,,,,,3,0.18,0,1,1,11,1.9,younger/smaller cohort,276
+GTNP,surber,North Fork Teton Creek,30-Jul-18,1,whole,1,Non-Tanypodinae,10,7,4,9,7,8,8,10,7,3,4,,,,,,,,,,7,0.12,0,1,11,118,14.8,,274
+GTNP,surber,North Fork Teton Creek,30-Jul-18,1,whole,1,Prosimulium,7,4,6,4,5,5,6,6,5,6,7,7,5,5,4,4,6,4,4,3,5.2,0.31,20,1,40,431,135.02,,275
+GTNP,surber,North Fork Teton Creek,30-Jul-18,2,whole,1,2Megarcys,4,,,,,,,,,,,,,,,,,,,,4,0.38,0,1,1,11,4.07,younger/smaller cohort,280
+GTNP,surber,North Fork Teton Creek,30-Jul-18,2,whole,1,Acari,1,1,,,,,,,,,,,,,,,,,,,1,1.18,0,1,2,22,25.48,,281
+GTNP,surber,North Fork Teton Creek,30-Jul-18,2,whole,1,Limonia,10,,,,,,,,,,,,,,,,,,,,10,1.11,0,1,1,11,11.97,,279
+GTNP,surber,North Fork Teton Creek,30-Jul-18,2,whole,1,Non-Tanypodinae,9,2,3,3,5,8,4,4,5,6,10,10,9,10,8,7,11,2,4,6,6.3,0.09,4,1,24,258,24.11,,277
+GTNP,surber,North Fork Teton Creek,30-Jul-18,2,whole,1,Prosimulium,5,7,6,6,7,5,5,5,4,4,4,3,5,3,4,5,7,5,5,4,5,0.28,42,1,62,667,189.17,,278
+GTNP,surber,North Fork Teton Creek,30-Jul-18,2,whole,1,Rhyacophila,8,,,,,,,,,,,,,,,,,,,,8,1.72,0,1,1,11,18.5,removed,282
+GTNP,surber,North Fork Teton Creek,30-Jul-18,3,whole,1,2Megarcys,4,5,5,,,,,,,,,,,,,,,,,,4.7,0.57,0,1,3,32,18.41,younger/smaller cohort,285
+GTNP,surber,North Fork Teton Creek,30-Jul-18,3,whole,1,Collembola,1,,,,,,,,,,,,,,,,,,,,1,0.43,0,1,1,11,4.58,,286
+GTNP,surber,North Fork Teton Creek,30-Jul-18,3,whole,1,Non-Tanypodinae,9,3,7,9,6,10,9,9,,,,,,,,,,,,,7.8,0.17,0,1,8,86,14.27,,283
+GTNP,surber,North Fork Teton Creek,30-Jul-18,3,whole,1,Prosimulium,5,4,5,6,7,4,6,4,4,5,7,7,5,3,,,,,,,5.1,0.31,0,1,14,151,47.09,,284
+GTNP,surber,North Fork Teton Creek,30-Jul-18,3,whole,1,Rhyacophila,4,,,,,,,,,,,,,,,,,,,,4,0.31,0,1,1,11,3.32,removed,287
+GTNP,surber,Paintbrush,4-Aug-18,1,whole,1,Non-Tanypodinae,3,3,3,2,4,3,3,3,3,4,4,4,3,2,1,2,2,4,4,5,3.1,0.01,198,1,218,2347,30.72,,264
+GTNP,surber,Paintbrush,4-Aug-18,1,whole,1,Oligochaeta,7,4,,,,,,,,,,,,,,,,,,,5.5,0.44,0,1,2,22,9.46,,265
+GTNP,surber,Paintbrush,4-Aug-18,2,whole,1,Chironomidae pupa,4,,,,,,,,,,,,,,,,,,,,4,0.03,0,1,1,11,0.29,,267
+GTNP,surber,Paintbrush,4-Aug-18,2,whole,1,Non-Tanypodinae,3,3,2,2,2,5,4,4,3,3,2,3,4,4,5,2,2,3,4,5,3.3,0.01,452,1,472,5081,75.81,,266
+GTNP,surber,Paintbrush,4-Aug-18,2,whole,1,Oligochaeta,4,4,6,3,3,4,6,4,3,9,10,9,8,5,4,4,4,3,5,3,5.1,0.4,2,1,22,237,95.52,,269
+GTNP,surber,Paintbrush,4-Aug-18,2,whole,1,Prosimulium,7,7,4,7,4,,,,,,,,,,,,,,,,5.8,0.42,0,1,5,54,22.85,,268
+GTNP,surber,Paintbrush,4-Aug-18,3,whole,1,Chironomidae pupa,4,,,,,,,,,,,,,,,,,,,,4,0.03,0,1,1,11,0.29,,272
+GTNP,surber,Paintbrush,4-Aug-18,3,whole,1,Non-Tanypodinae,1,2,2,4,4,2,2,2,3,4,5,5,4,4,2,5,3,3,3,2,3.1,0.01,815,1,835,8988,117.66,,270
+GTNP,surber,Paintbrush,4-Aug-18,3,whole,1,Oligochaeta,3,4,4,3,3,6,6,4,5,4,4,5,4,5,5,6,6,5,3,4,4.5,0.36,39,1,59,635,225.74,,273
+GTNP,surber,Paintbrush,4-Aug-18,3,whole,1,Prosimulium,7,7,4,,,,,,,,,,,,,,,,,,6,0.46,0,1,3,32,14.95,,271
+ABW,surber,Skillet,6-Aug-18,1,whole,3,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.18,0,1,1,4,4.25,,247
+ABW,surber,Skillet,6-Aug-18,1,whole,3,Chironomidae pupa,4,3,3,3,4,4,,,,,,,,,,,,,,,3.5,0.02,0,1,6,22,0.39,,245
+ABW,surber,Skillet,6-Aug-18,1,whole,3,Gonomyodes,5,6,2,4,8,,,,,,,,,,,,,,,,5,0.18,0,1,5,18,3.21,,246
+ABW,surber,Skillet,6-Aug-18,1,whole,3,Non-Tanypodinae,1,2,2,3,3,2,2,3,4,4,6,6,4,2,2,7,6,5,4,4,3.6,0.02,455,1,475,1704,33.76,,243
+ABW,surber,Skillet,6-Aug-18,1,whole,3,Oligochaeta,3,3,3,,,,,,,,,,,,,,,,,,3,0.24,0,1,3,11,2.58,,249
+ABW,surber,Skillet,6-Aug-18,1,whole,3,Prosimulium,7,6,6,7,7,6,5,5,6,7,7,7,7,7,6,8,7,5,5,,6.4,0.54,0,1,19,68,36.74,,244
+ABW,surber,Skillet,6-Aug-18,1,whole,3,Rhyacophila,13,4,,,,,,,,,,,,,,,,,,,8.5,2,0,1,2,7,14.34,removed,250
+ABW,surber,Skillet,6-Aug-18,1,whole,3,Turbellaria,4,3,,,,,,,,,,,,,,,,,,,3.5,0.09,0,1,2,7,0.63,,248
+ABW,surber,Skillet,6-Aug-18,2,whole,3,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.18,0,1,1,4,4.25,,255
+ABW,surber,Skillet,6-Aug-18,2,whole,3,Allomyia,2,2,,,,,,,,,,,,,,,,,,,2,0.01,0,1,2,7,0.09,removed,257
+ABW,surber,Skillet,6-Aug-18,2,whole,3,Chironomidae pupa,3,3,3,3,4,,,,,,,,,,,,,,,,3.2,0.01,0,1,5,18,0.26,,254
+ABW,surber,Skillet,6-Aug-18,2,whole,3,Gonomyodes,6,6,7,5,,,,,,,,,,,,,,,,,6,0.29,0,1,4,14,4.15,,253
+ABW,surber,Skillet,6-Aug-18,2,whole,3,Lednia,6,6,7,6,4,,,,,,,,,,,,,,,,5.8,0.56,0,1,5,18,10.1,removed,258
+ABW,surber,Skillet,6-Aug-18,2,whole,3,Non-Tanypodinae,5,4,2,2,2,3,5,2,2,2,6,6,2,2,2,2,3,3,5,6,3.3,0.02,485,1,505,1812,28.2,,251
+ABW,surber,Skillet,6-Aug-18,2,whole,3,Prosimulium,4,7,8,3,5,7,3,5,,,,,,,,,,,,,5.3,0.33,0,1,8,29,9.45,,252
+ABW,surber,Skillet,6-Aug-18,2,whole,3,Turbellaria,2,3,2,3,,,,,,,,,,,,,,,,,2.5,0.04,0,1,4,14,0.6,,256
+GTNP,surber,Skillet,6-Aug-18,3,whole,1,Chironomidae pupa,3,4,,,,,,,,,,,,,,,,,,,3.5,0.02,0,1,2,22,0.39,,262
+ABW,surber,Skillet,6-Aug-18,3,whole,3,Gonomyodes,6,5,,,,,,,,,,,,,,,,,,,5.5,0.23,0,1,2,7,1.65,,261
+ABW,surber,Skillet,6-Aug-18,3,whole,3,Non-Tanypodinae,1,1,2,2,2,2,2,2,2,3,3,2,3,4,5,2,3,3,4,6,2.7,0.01,126,1,146,524,4.68,,259
+ABW,surber,Skillet,6-Aug-18,3,whole,3,Prosimulium,6,7,,,,,,,,,,,,,,,,,,,6.5,0.57,0,1,2,7,4.07,,260
+GTNP,surber,Skillet,6-Aug-18,3,whole,1,Rhyacophila,2,,,,,,,,,,,,,,,,,,,,2,0.06,0,1,1,11,0.59,removed,263
+GTNP,surber,South Cascade,4-Aug-18,1,lg,3,Chironomidae pupa,5,,,,,,,,,,,,,,,,,,,,5,0.05,0,1,1,4,0.18,3 surbers combined,289
+GTNP,surber,South Cascade,4-Aug-18,1,lg,3,Non-Tanypodinae,6,6,8,9,3,4,5,7,4,6,6,7,5,6,9,10,9,9,8,7,6.7,0.11,116,1,136,488,54.01,3 surbers combined,288
+GTNP,surber,South Cascade,4-Aug-18,1,sm,3,Chironomidae pupa,5,4,,,,,,,,,,,,,,,,,,,4.5,0.04,0,1,2,7,0.26,3 surbers combined,291
+GTNP,surber,South Cascade,4-Aug-18,1,sm,3,Non-Tanypodinae,2,4,4,3,4,4,2,5,5,5,5,5,3,2,2,3,4,4,5,7,3.9,0.02,124,1,144,517,12.77,3 surbers combined,290
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,1Megarcys,20,21,16,15,17,15,19,16,,,,,,,,,,,,,17.4,18.77,0,1,8,86,1616.29,older/larger cohort,85
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,2Megarcys,4,6,5,5,4,4,,,,,,,,,,,,,,,4.7,0.57,0,1,6,65,36.82,younger/smaller cohort,86
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,Allomyia,9,,,,,,,,,,,,,,,,,,,,9,1.34,0,1,1,11,14.4,removed,93
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,Cinygmula,5,7,7,7,6,6,5,6,5,7,5,3,5,,,,,,,,5.7,2.87,0,1,13,140,401.85,,91
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,Epeorus,6,5,3,5,5,6,5,5,6,6,5,6,6,6,6,6,,,,,5.4,0.79,0,1,16,172,136.8,,89
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,Non-Tanypodinae,5,6,8,10,9,8,7,4,7,9,9,6,5,2,3,6,6,11,7,5,6.7,0.11,13,1,33,355,38.51,,81
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,Probezzia,7,7,7,,,,,,,,,,,,,,,,,,7,0.06,0,1,3,32,1.9,,83
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,Prosimulium,6,4,7,6,5,,,,,,,,,,,,,,,,5.6,0.39,0,1,5,54,20.9,,84
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,Rhyacophila,21,5,5,5,,,,,,,,,,,,,,,,,9,2.3,0,1,4,43,99.13,removed,94
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,Rithrogena,9,10,,,,,,,,,,,,,,,,,,,9.5,4.06,0,1,2,22,87.5,,90
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,Suwallia,8,8,6,8,6,10,,,,,,,,,,,,,,,7.7,1.59,0,1,6,65,102.85,,87
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,Sweltsa,6,8,3,7,7,7,3,4,5,5,,,,,,,,,,,5.5,0.64,0,1,10,108,69.36,,88
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,Tipula,25,23,32,36,27,33,33,28,24,39,30,31,42,33,24,,,,,,30.7,26.05,0,1,15,161,4206.35,,82
+ABW,surber,South Fork Teton Creek,4-Aug-18,1,lg,1,Turbellaria,7,6,5,5,4,4,4,,,,,,,,,,,,,,5,0.19,0,1,7,75,14.51,,92
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,2Megarcys,3,4,5,3,4,4,4,4,4,3,,,,,,,,,,,3.8,0.33,0,1,10,108,35.54,younger/smaller cohort,99
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Allomyia,2,2,2,,,,,,,,,,,,,,,,,,2,0.01,0,1,3,32,0.4,removed,107
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Baetis,2,,,,,,,,,,,,,,,,,,,,2,0.04,0,1,1,11,0.48,,103
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Chironomidae pupa,2,3,,,,,,,,,,,,,,,,,,,2.5,0.01,0,1,2,22,0.16,,98
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Cinygmula,5,5,5,5,5,3,5,2,2,2,3,3,3,4,3,5,4,,,,3.8,0.93,0,1,17,183,169.97,,101
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Epeorus,4,4,4,,,,,,,,,,,,,,,,,,4,0.32,0,1,3,32,10.45,,102
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Non-Tanypodinae,2,2,2,2,3,3,5,5,3,2,2,2,2,3,5,4,3,3,2,2,2.9,0.01,50,1,70,753,7.81,,95
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Oligochaeta,3,2,2,,,,,,,,,,,,,,,,,,2.3,0.19,0,1,3,32,6.02,,105
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Ostracoda,1,,,,,,,,,,,,,,,,,,,,1,0.22,0,1,1,11,2.4,,106
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Probezzia,7,,,,,,,,,,,,,,,,,,,,7,0.06,0,1,1,11,0.63,,96
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Prosimulium,5,5,5,3,,,,,,,,,,,,,,,,,4.5,0.22,0,1,4,43,9.57,,97
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Rhyacophila,4,3,6,5,2,,,,,,,,,,,,,,,,4,0.31,0,1,5,54,16.58,removed,108
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Sweltsa,4,3,5,4,3,4,3,,,,,,,,,,,,,,3.7,0.22,0,1,7,75,16.67,,100
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Turbellaria,1,2,3,3,2,2,4,2,,,,,,,,,,,,,2.4,0.04,0,1,8,86,3.23,,104
+GTNP,surber,South Fork Teton Creek,4-Aug-18,1,sm,1,Zapada,2,2,2,2,3,,,,,,,,,,,,,,,,2.2,0.04,0,1,5,54,2.36,removed,109
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,1Megarcys,21,21,24,17,17,,,,,,,,,,,,,,,,20,27.28,0,1,5,54,1468.3,older/larger cohort,114
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,2Megarcys,4,53,4,4,4,4,5,,,,,,,,,,,,,,11.1,5.76,0,1,7,75,434.23,younger/smaller cohort,115
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.18,0,1,1,11,12.74,,122
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Baetis,2,,,,,,,,,,,,,,,,,,,,2,0.04,0,1,1,11,0.48,,121
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Chironomidae pupa,3,,,,,,,,,,,,,,,,,,,,3,0.01,0,1,1,11,0.13,,113
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Cinygmula,6,4,3,,,,,,,,,,,,,,,,,,4.3,1.36,0,1,3,32,44.04,,119
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Collembola,2,,,,,,,,,,,,,,,,,,,,2,2.73,0,1,1,11,29.34,,124
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Epeorus,5,5,4,6,6,4,6,6,4,6,6,7,6,4,6,4,6,5,5,5,5.3,0.74,2,1,22,237,174.51,,118
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Heterocloeon,3,,,,,,,,,,,,,,,,,,,,3,0.1,0,1,1,11,1.11,,120
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Non-Tanypodinae,3,4,5,7,7,8,6,5,4,2,1,3,3,11,7,8,7,6,6,3,5.3,0.06,35,1,55,592,34.23,,110
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Prosimulium,5,5,5,7,5,6,7,6,5,4,6,6,7,7,6,5,6,7,5,7,5.9,0.43,1,1,21,226,98.11,,112
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Rhyacophila,3,,,,,,,,,,,,,,,,,,,,3,0.15,0,1,1,11,1.63,removed,125
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Rithrogena,9,,,,,,,,,,,,,,,,,,,,9,3.47,0,1,1,11,37.35,,117
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Sweltsa,4,3,5,3,4,4,4,4,5,,,,,,,,,,,,4,0.27,0,1,9,97,26.22,,116
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Tipula,37,40,,,,,,,,,,,,,,,,,,,38.5,45.41,0,1,2,22,977.68,,111
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Turbellaria,5,5,3,3,4,5,5,3,2,3,,,,,,,,,,,3.8,0.11,0,1,10,108,11.34,,123
+GTNP,surber,South Fork Teton Creek,4-Aug-18,2,whole,1,Zapada,2,3,,,,,,,,,,,,,,,,,,,2.5,0.06,0,1,2,22,1.32,removed,126
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,2Megarcys,4,4,,,,,,,,,,,,,,,,,,,4,0.38,0,1,2,22,8.15,younger/smaller cohort,131
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Allomyia,9,9,9,,,,,,,,,,,,,,,,,,9,1.34,0,1,3,32,43.19,removed,139
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Baetis,2,,,,,,,,,,,,,,,,,,,,2,0.04,0,1,1,11,0.48,,137
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Cinygmula,6,6,,,,,,,,,,,,,,,,,,,6,3.32,0,1,2,22,71.38,,136
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Epeorus,6,6,,,,,,,,,,,,,,,,,,,6,1.06,0,1,2,22,22.81,,135
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Non-Tanypodinae,7,9,10,6,4,4,5,3,3,9,10,9,4,,,,,,,,6.4,0.1,0,1,13,140,13.55,,127
+ABW,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Prosimulium,5,5,4,4,6,,,,,,,,,,,,,,,,4.8,0.26,0,1,5,54,14.1,,129
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Rithrogena,9,9,,,,,,,,,,,,,,,,,,,9,3.47,0,1,2,22,74.7,,134
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Simuliidae Pupa,4,,,,,,,,,,,,,,,,,,,,4,0.16,0,1,1,11,1.77,,130
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Suwallia,8,,,,,,,,,,,,,,,,,,,,8,1.79,0,1,1,11,19.25,,133
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Sweltsa,6,8,8,9,7,4,5,8,8,,,,,,,,,,,,7,1.24,0,1,9,97,120.41,,132
+ABW,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Tipula,43,39,34,35,33,40,36,37,34,14,,,,,,,,,,,34.5,34.74,0,1,10,108,3739.21,,128
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Turbellaria,4,4,3,,,,,,,,,,,,,,,,,,3.7,0.1,0,1,3,32,3.14,,138
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,lg,1,Zapada,6,,,,,,,,,,,,,,,,,,,,6,0.62,0,1,1,11,6.63,removed,140
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,sm,1,2Megarcys,5,4,,,,,,,,,,,,,,,,,,,4.5,0.52,0,1,2,22,11.14,younger/smaller cohort,144
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,sm,1,Allomyia,2,5,,,,,,,,,,,,,,,,,,,3.5,0.07,0,1,2,22,1.52,removed,148
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,sm,1,Baetis,2,,,,,,,,,,,,,,,,,,,,2,0.04,0,1,1,11,0.48,,147
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,sm,1,Chironomidae pupa,2,4,2,,,,,,,,,,,,,,,,,,2.7,0.01,0,1,3,32,0.28,,143
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,sm,1,Cinygmula,3,2,,,,,,,,,,,,,,,,,,,2.5,0.3,0,1,2,22,6.54,,146
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,sm,1,Non-Tanypodinae,3,4,5,4,3,4,3,4,3,5,3,3,,,,,,,,,3.7,0.02,0,1,12,129,2.69,,141
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,sm,1,Prosimulium,4,5,6,,,,,,,,,,,,,,,,,,5,0.29,0,1,3,32,9.39,,142
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,sm,1,Rhyacophila,5,,,,,,,,,,,,,,,,,,,,5,0.54,0,1,1,11,5.77,removed,149
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,sm,1,Sweltsa,6,4,6,3,,,,,,,,,,,,,,,,,4.8,0.43,0,1,4,43,18.61,,145
+GTNP,surber,South Fork Teton Creek,4-Aug-18,3,sm,1,Zapada,4,2,2,2,2,2,,,,,,,,,,,,,,,2.3,0.05,0,1,6,65,3.31,removed,150
+GTNP,surber,Wind Cave,31-Jul-18,1,whole,1,2Megarcys,6,6,5,6,7,6,5,5,4,4,6,4,4,5,8,4,4,3,3,3,4.9,0.65,0,1,20,215,139.73,younger/smaller cohort,3
+GTNP,surber,Wind Cave,31-Jul-18,1,whole,1,Acari,1,1,1,,,,,,,,,,,,,,,,,,1,1.18,0,1,3,32,38.21,,4
+GTNP,surber,Wind Cave,31-Jul-18,1,whole,1,Chironomidae pupa,4,4,4,4,4,,,,,,,,,,,,,,,,4,0.03,0,1,5,54,1.43,,2
+GTNP,surber,Wind Cave,31-Jul-18,1,whole,1,Non-Tanypodinae,7,6,7,4,4,2,2,3,8,7,6,7,7,3,6,5,2,3,4,3,4.8,0.04,1,1,21,226,9.93,,1
+GTNP,surber,Wind Cave,31-Jul-18,1,whole,1,Rhyacophila,2,2,2,5,1,,,,,,,,,,,,,,,,2.4,0.09,0,1,5,54,4.67,removed,5
+GTNP,surber,Wind Cave,31-Jul-18,1,whole,1,Zapada,4,3,3,3,3,4,2,2,4,4,4,2,2,2,4,4,4,3,2,5,3.2,0.12,42,1,62,667,78.49,removed,6
+GTNP,surber,Wind Cave,31-Jul-18,2,lg,1,1Megarcys,19,22,19,24,17,,,,,,,,,,,,,,,,20.2,28.01,0,1,5,54,1507.65,older/larger cohort,10
+GTNP,surber,Wind Cave,31-Jul-18,2,lg,1,2Megarcys,5,5,3,8,7,6,7,6,3,4,4,5,5,5,7,9,10,10,5,5,6,1.09,8,1,28,301,327.74,younger/smaller cohort,11
+GTNP,surber,Wind Cave,31-Jul-18,2,lg,1,Chironomidae pupa,4,5,,,,,,,,,,,,,,,,,,,4.5,0.04,0,1,2,22,0.79,,8
+GTNP,surber,Wind Cave,31-Jul-18,2,lg,1,Collembola,1,,,,,,,,,,,,,,,,,,,,1,0.43,0,1,1,11,4.58,,13
+GTNP,surber,Wind Cave,31-Jul-18,2,lg,1,Non-Tanypodinae,6,7,9,11,8,6,6,6,5,4,10,9,10,10,9,8,8,2,2,4,7,0.12,27,1,47,506,63.22,,7
+GTNP,surber,Wind Cave,31-Jul-18,2,lg,1,Rhyacophila,15,7,8,9,8,6,8,8,6,5,4,5,6,8,9,13,5,,,,7.6,1.54,0,1,17,183,281.28,removed,14
+GTNP,surber,Wind Cave,31-Jul-18,2,lg,1,Staphylinidae,5,3,3,,,,,,,,,,,,,,,,,,3.7,0.19,0,1,3,32,6.04,Adult,12
+GTNP,surber,Wind Cave,31-Jul-18,2,lg,1,Turbellaria,3,3,3,4,5,5,4,4,3,3,3,3,3,3,3,3,4,4,5,4,3.6,0.09,5,1,25,269,25.17,,9
+GTNP,surber,Wind Cave,31-Jul-18,2,lg,1,Zapada,2,3,3,3,2,2,3,4,3,3,2,2,2,3,3,3,5,5,4,3,3,0.1,53,1,73,786,77.97,removed,15
+GTNP,surber,Wind Cave,31-Jul-18,2,sm,1,2Megarcys,5,3,4,4,7,5,7,7,5,4,4,4,3,,,,,,,,4.8,0.6,0,1,13,140,84.52,younger/smaller cohort,18
+GTNP,surber,Wind Cave,31-Jul-18,2,sm,1,Acari,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.18,2,1,22,237,280.23,,20
+GTNP,surber,Wind Cave,31-Jul-18,2,sm,1,Chironomidae pupa,5,5,4,3,,,,,,,,,,,,,,,,,4.3,0.03,0,1,4,43,1.35,,17
+GTNP,surber,Wind Cave,31-Jul-18,2,sm,1,Non-Tanypodinae,2,3,5,3,3,3,3,4,5,4,5,2,2,3,3,5,5,5,3,3,3.6,0.02,8,1,28,301,5.74,,16
+GTNP,surber,Wind Cave,31-Jul-18,2,sm,1,Rhyacophila,5,2,7,6,2,,,,,,,,,,,,,,,,4.4,0.39,0,1,5,54,21.01,removed,21
+GTNP,surber,Wind Cave,31-Jul-18,2,sm,1,Turbellaria,2,2,3,5,5,3,3,2,2,3,3,4,3,2,3,2,,,,,2.9,0.06,0,1,16,172,10.3,,19
+GTNP,surber,Wind Cave,31-Jul-18,2,sm,1,Zapada,3,3,3,2,2,2,2,2,3,4,3,3,3,3,3,3,2,2,3,3,2.7,0.08,103,1,123,1324,99.55,removed,22
+GTNP,surber,Wind Cave,31-Jul-18,3,lg,1,1Megarcys,25,19,16,21,18,,,,,,,,,,,,,,,,19.8,26.56,0,1,5,54,1429.6,older/larger cohort,24
+GTNP,surber,Wind Cave,31-Jul-18,3,lg,1,2Megarcys,7,4,6,6,4,6,6,7,7,5,5,5,6,7,8,6,5,5,6,6,5.9,1.04,9,1,29,312,324.49,younger/smaller cohort,25
+GTNP,surber,Wind Cave,31-Jul-18,3,lg,1,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.18,0,1,1,11,12.74,,26
+GTNP,surber,Wind Cave,31-Jul-18,3,lg,1,Non-Tanypodinae,7,9,10,6,4,4,4,2,8,2,3,6,6,6,11,9,3,3,8,5,5.8,0.07,28,1,48,517,38.35,,23
+GTNP,surber,Wind Cave,31-Jul-18,3,lg,1,Rhyacophila,6,9,14,12,14,5,12,8,,,,,,,,,,,,,10,2.99,0,1,8,86,257.46,removed,27
+GTNP,surber,Wind Cave,31-Jul-18,3,lg,1,Zapada,2,2,3,3,4,6,2,4,3,3,4,2,2,3,5,5,4,4,4,4,3.5,0.14,0,1,20,215,30.86,removed,28
+GTNP,surber,Wind Cave,31-Jul-18,3,sm,1,2Megarcys,6,5,5,4,5,3,4,,,,,,,,,,,,,,4.6,0.54,0,1,7,75,40.67,younger/smaller cohort,32
+GTNP,surber,Wind Cave,31-Jul-18,3,sm,1,Acari,1,1,1,1,1,,,,,,,,,,,,,,,,1,1.18,0,1,5,54,63.69,,33
+GTNP,surber,Wind Cave,31-Jul-18,3,sm,1,Chironomidae pupa,3,,,,,,,,,,,,,,,,,,,,3,0.01,0,1,1,11,0.13,,30
+GTNP,surber,Wind Cave,31-Jul-18,3,sm,1,Non-Tanypodinae,2,3,3,4,3,3,1,3,3,4,4,4,3,2,2,5,4,3,2,3,3.1,0.01,20,1,40,431,5.39,,29
+GTNP,surber,Wind Cave,31-Jul-18,3,sm,1,Prosimulium,5,,,,,,,,,,,,,,,,,,,,5,0.29,0,1,1,11,3.13,,31
+GTNP,surber,Wind Cave,31-Jul-18,3,sm,1,Zapada,5,2,2,3,4,3,2,3,3,4,3,3,4,3,3,2,2,2,3,5,3.1,0.1,37,1,57,614,63.59,removed,34

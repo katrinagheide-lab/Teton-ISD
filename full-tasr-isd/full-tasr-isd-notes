@@ -1,9 +1,67 @@
 Notes for full TASR-ISD
-Sampling mesh - what micron opening?
+Sampling mesh - what micron opening? -- Lusha said 250
 
 2024
 Middle Teton rep = 3 --> duplicated rows?
+Collembola and Non-tanypod each have two rows for Rep = 3 and Fraction = whole. Measurements are different, so I don't think this is a duplication error. 
 
 2023
 Cloudveil Dome, Small, Rep 2: Lednia doesn't have a total abundance
-The Gusher, Small, Rep = 1 --> Duplicated rows?
+The Gusher, Small, Rep = 1 --> Duplicated rows?: 2 rows for Heterocloeon, Lednia, Non-tanypod, Prosimuliium, Zapada
+
+2020
+Sample date?
+Subsample fraction?
+Delta Lake 1, Large; SF Teton Large, 2 and 3, no total abundances for 1/2Megarcys
+
+2022
+- dragged date (6-14 Aug 2022) in Skillet sample rows to complete data
+- deleted "2022" in the Year column 0 in Density column for rows 487-854: no data in those rows, reading in as NA values in R
+Skillet rep 2 small fraction has two rows for prosimuliium and non-tanypods
+
+2021
+- deleted "2021" in Year column and 0 in Density column for rows 457-854: no data, reading in as NA in R
+- AK Basin, rep 1, small, two rows for non-tanypodinae. One row has 20 measurements, 1 row has 1 measurement
+
+2019-2024
+Cleaning notes
+- colnames for all years
+- make target list in correct order
+- filter out adult and pupae
+- look for duplicates
+  - make a list and ask Lusha
+  - remove whole duplicated stream for now
+- check for total abundances
+  - replace, or calculate if needed
+- pivot longer
+# Stream names
+Are the following synonymous?
+- AK Basin South RG = Alaska Basin RG
+  - AK Basin Icy Seep is different? only in 2019?
+- Cloudveil = Cloudveil Dome
+- Grizzly Stream = Grizzly
+- Delta Lake = Delta Lake Inlet Stream
+- NF Teton Ck = NF Teton Creek
+- Skillet Glacier Stream = Skillet Glacier 
+
+2015-2018
+Different data format
+Upper/lower sites? 
+- Middle Teton, NF Teton, Teton, S Cascade, Wind Cave
+- Not in every year
+  - only one site in 2019-2024?
+  
+- how to deal with NoSurbers / Subsample in these sites?
+
+
+Overall analysis plan
+1. Calculate annual temperature for all sites. 
+  Annual, Summer, August, other?
+2. Process length data
+  up to 20 measurements per taxa
+  simulate/sample missing body sizes (when total abundance>20)
+3. isdbayes to test for effects of temperature*stream_source
+  brm(x | vreal(counts, xmin, xmax) ~ temperature*source + (1|site) + (1|year?)
+  
+  
+  

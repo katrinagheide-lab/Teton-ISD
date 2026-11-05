@@ -1,0 +1,420 @@
+Park,Sampler,Stream,Date,Fraction,Rep,NoSurbers ,Taxa,L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L13,L14,L15,L16,L17,L18,L19,L20,MeanLength(mm),IndBiomass(mg/ind),Unmeasured,Subsample,Abundance ,Density (ind/m2),Biomass (mg/m2),Notes
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,2Megarcys,16,16,15,15,15,16,16,18,,,,,,,,,,,,,15.875,14.76456684,0,1,8,86.11410118,1271.437403,lg cohort
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,2Megarcys,16,,,,,,,,,,,,,,,,,,,,16,15.07559699,0,1,1,10.76426265,162.2776856,lg cohort
+GTNP,surber,Wind Cave,42955,lg,3,1,2Megarcys,20,16,,,,,,,,,,,,,,,,,,,18,20.61759118,0,1,2,21.5285253,443.8663332,lg cohort
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,2Megarcys,23,18,24,15,15,15,18,21,15,16,15,14,13,,,,,,,,17.07692308,17.92538041,0,1,13,139.9354144,2508.395536,lg cohort
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,2Megarcys,20,15,15,,,,,,,,,,,,,,,,,,16.66666667,16.8034161,0,1,3,32.29278794,542.6291527,lg cohort
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,3,1,2Megarcys,16,,,,,,,,,,,,,,,,,,,,16,15.07559699,0,1,1,10.76426265,162.2776856,lg cohort
+ABW,surber,Beartooth Cr,42923,lg,1,3,2Megarcys,22,23,22,,,,,,,,,,,,,,,,,,22.33333333,36.57986816,0,1,3,10.76426265,393.7553085,sm cohort
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,2Megarcys,23,,,,,,,,,,,,,,,,,,,,23,39.55452681,0,1,1,3.588087549,141.9251052,lg cohort
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,1Megarcys,3,3,4,5,,,,,,,,,,,,,,,,,3.75,0.318785614,0,1,4,43.05705059,13.72596832,sm cohort
+GTNP,surber,Upper SF Teton Cr,42960,sm,1,1,1Megarcys,4,4,3,3,3,4,,,,,,,,,,,,,,,3.5,0.265372837,0,1,6,64.58557589,17.1392575,sm cohort
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,1Megarcys,4,4,4,,,,,,,,,,,,,,,,,,4,0.378441768,0,1,3,32.29278794,12.22093975,sm cohort
+GTNP,surber,NF Teton Cr,42955,lg,1,1,1Megarcys,5,5,5,,,,,,,,,,,,,,,,,,5,0.684834888,0,1,3,32.29278794,22.11522782,sm cohort
+GTNP,surber,NF Teton Cr,42955,sm,1,1,1Megarcys,4,4,4,4,4,5,5,,,,,,,,,,,,,,4.285714286,0.454612434,0,1,7,75.34983854,34.25497351,sm cohort
+GTNP,surber,NF Teton Cr,42955,lg,2,1,1Megarcys,5,5,5,5,6,5,5,5,4,4,4,5,5,5,4,4,4,5,4,4,4.65,0.564694495,6,1,26,279.8708288,158.0415164,sm cohort
+GTNP,surber,NF Teton Cr,42955,sm,2,1,1Megarcys,4,4,5,5,5,4,3,,,,,,,,,,,,,,4.285714286,0.454612434,0,1,7,75.34983854,34.25497351,sm cohort
+GTNP,surber,NF Teton Cr,42955,lg,3,1,1Megarcys,3,4,4,5,3,4,,,,,,,,,,,,,,,3.833333333,0.337963789,0,1,6,64.58557589,21.82758591,sm cohort
+GTNP,surber,NF Teton Cr,42955,sm,3,1,1Megarcys,4,,,,,,,,,,,,,,,,,,,,4,0.378441768,0,1,1,10.76426265,4.073646583,sm cohort
+GTNP,surber,Wind Cave,42955,lg,1,1,1Megarcys,6,6,7,7,7,6,,,,,,,,,,,,,,,6.5,1.375457916,0,1,6,64.58557589,88.83474164,sm cohort
+GTNP,surber,Wind Cave,42955,sm,1,1,1Megarcys,7,4,3,2,,,,,,,,,,,,,,,,,4,0.378441768,0,1,4,43.05705059,16.29458633,sm cohort
+GTNP,surber,Wind Cave,42955,lg,2,1,1Megarcys,6,6,5,5,6,5,5,4,4,,,,,,,,,,,,5.111111111,0.726034623,0,1,9,96.87836383,70.33704637,sm cohort
+GTNP,surber,Wind Cave,42955,lg,3,1,1Megarcys,6,5,4,4,3,4,5,7,6,5,4,3,3,4,5,6,6,5,4,4,4.65,0.564694495,11,1,31,333.6921421,188.4341157,sm cohort
+GTNP,surber,Wind Cave,42955,sm,3,1,1Megarcys,7,7,6,4,3,3,4,4,5,6,4,4,4,4,3,4,,,,,4.5,0.517562101,0,1,16,172.2282024,89.13879021,sm cohort
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,1Megarcys,3,3,2,2,2,3,3,3,3,3,3,3,2,3,,,,,,,2.714285714,0.135014399,0,1,14,150.6996771,20.34662627,sm cohort
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,1Megarcys,2,3,3,3,3,3,3,3,3,2,2,3,,,,,,,,,2.75,0.139788005,0,1,12,129.1711518,18.05657755,sm cohort
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,1Megarcys,3,3,3,4,,,,,,,,,,,,,,,,,3.25,0.217926267,0,1,4,43.05705059,9.383262285,sm cohort
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,1Megarcys,3,2,3,4,4,3,,,,,,,,,,,,,,,3.166666667,0.203387685,0,1,6,64.58557589,13.13591076,sm cohort
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,3,1,1Megarcys,3,3,,,,,,,,,,,,,,,,,,,3,0.176161865,0,1,2,21.5285253,3.792505174,sm cohort
+GTNP,surber,Delta Inlet Stream,42952,lg,2,1,1Megarcys,6,1,,,,,,,,,,,,,,,,,,,3.5,0.265372837,0,1,2,21.5285253,5.713085832,sm cohort
+GTNP,surber,Delta Inlet Stream,42952,lg,3,1,1Megarcys,4,,,,,,,,,,,,,,,,,,,,4,0.378441768,0,1,1,10.76426265,4.073646583,sm cohort
+ABW,surber,Beartooth Cr,42923,lg,1,3,1Megarcys,4,5,,,,,,,,,,,,,,,,,,,4.5,0.517562101,0,1,2,7.176175099,3.714116259,lg cohort
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,1Megarcys,3,,,,,,,,,,,,,,,,,,,,3,0.176161865,0,1,1,3.588087549,0.632084196,sm cohort
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,1Megarcys,4,3,3,3,2,4,2,,,,,,,,,,,,,,3,0.176161865,0,1,7,25.11661285,4.42458937,sm cohort
+GTNP,surber,Upper SF Teton Cr,42960,sm,1,1,Acari,1,1,,,,,,,,,,,,,,,,,,,1,1.183333233,0,1,2,21.5285253,25.47541944,
+GTNP,surber,Upper SF Teton Cr,42960,sm,2,1,Acari,1,1,,,,,,,,,,,,,,,,,,,1,1.183333233,0,1,2,21.5285253,25.47541944,
+GTNP,surber,Upper SF Teton Cr,42960,sm,3,1,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.183333233,0,1,1,10.76426265,12.73770972,
+GTNP,surber,Skillet Glacier Stream,42958,sm,1,1,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.183333233,0,1,1,10.76426265,12.73770972,
+GTNP,surber,NF Teton Cr,42955,lg,3,1,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.183333233,0,1,1,10.76426265,12.73770972,
+GTNP,surber,NF Teton Cr,42955,sm,3,1,Acari,1,1,1,,,,,,,,,,,,,,,,,,1,1.183333233,0,1,3,32.29278794,38.21312916,
+GTNP,surber,Wind Cave,42955,sm,1,1,Acari,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,,1,1.183333233,0,1,15,161.4639397,191.0656458,
+GTNP,surber,Wind Cave,42955,sm,2,1,Acari,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.183333233,2,1,22,236.8137783,280.2296138,
+GTNP,surber,Wind Cave,42955,lg,3,1,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.183333233,0,1,1,10.76426265,12.73770972,
+GTNP,surber,Middle Teton,42952,sm,1,1,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.183333233,0,1,1,10.76426265,12.73770972,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Acari,1,1,1,1,1,1,,,,,,,,,,,,,,,1,1.183333233,0,1,6,64.58557589,76.42625831,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,Acari,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.183333233,35,1,55,592.0344456,700.5740345,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Acari,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.183333233,13,1,33,355.2206674,420.3444207,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,3,1,Acari,2,,,,,,,,,,,,,,,,,,,,2,9.466665863,0,1,1,10.76426265,101.9016777,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,2,1,Acari,1,1,1,,,,,,,,,,,,,,,,,,1,1.183333233,0,1,3,32.29278794,38.21312916,
+GTNP,surber,Delta Inlet Stream,42952,sm,2,1,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.183333233,0,1,1,10.76426265,12.73770972,
+ABW,surber,Beartooth Cr,42923,sm,1,3,Acari,1,,,,,,,,,,,,,,,,,,,,1,1.183333233,0,1,1,3.588087549,4.24590324,
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Acari,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.183333233,107,1,127,455.6871188,539.2297114,
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,Acari,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,1,1.183333233,0,1,16,57.40940079,67.93445183,
+GTNP,surber,Skillet Glacier Stream,42958,lg,1,1,Agathon,5,5,6,6,6,6,7,7,7,7,7,5,,,,,,,,,6.166666667,2.552854914,0,1,12,129.1711518,329.7552096,
+GTNP,surber,Skillet Glacier Stream,42958,sm,1,1,Agathon,2,3,4,4,5,,,,,,,,,,,,,,,,3.6,0.434038053,0,1,5,53.82131324,23.360498,
+GTNP,surber,Skillet Glacier Stream,42958,lg,2,1,Agathon,4,4,5,6,6,5,5,5,5,4,4,5,5,6,6,5,4,4,,,4.888888889,1.188666009,0,1,18,193.7567277,230.3120362,
+GTNP,surber,Skillet Glacier Stream,42958,sm,2,1,Agathon,2,3,3,4,3,3,4,5,2,,,,,,,,,,,,3.222222222,0.301319919,0,1,9,96.87836383,29.19138074,
+GTNP,surber,Skillet Glacier Stream,42958,lg,3,1,Agathon,6,6,5,5,5,4,4,3,3,4,4,5,5,4,6,7,6,4,6,6,4.9,1.197582578,1,1,21,226.0495156,270.7129617,
+GTNP,surber,Skillet Glacier Stream,42958,sm,3,1,Agathon,3,5,6,4,,,,,,,,,,,,,,,,,4.5,0.904806203,0,1,4,43.05705059,38.95828646,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Agathon,3,,,,,,,,,,,,,,,,,,,,3,0.238156887,0,1,1,10.76426265,2.563583281,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,Agathon,4,,,,,,,,,,,,,,,,,,,,4,0.613990237,0,1,1,10.76426265,6.609152173,
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,Allomyia,5,,,,,,,,,,,,,,,,,,,,5,0.21434158,0,1,1,10.76426265,2.307229064,removed
+GTNP,surber,Upper SF Teton Cr,42960,lg,3,1,Allomyia,5,4,1,7,6,5,,,,,,,,,,,,,,,4.666666667,0.172890443,0,1,6,64.58557589,11.16622882,removed
+GTNP,surber,Upper SF Teton Cr,42960,sm,3,1,Allomyia,4,,,,,,,,,,,,,,,,,,,,4,0.106962547,0,1,1,10.76426265,1.151372953,removed
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,1,1,Allomyia,3,,,,,,,,,,,,,,,,,,,,3,0.043656365,0,1,1,10.76426265,0.46992858,removed
+GTNP,surber,Skillet Glacier Stream,42958,sm,1,1,Allomyia,3,2,2,2,,,,,,,,,,,,,,,,,2.25,0.017818183,0,1,4,43.05705059,0.767198395,removed
+GTNP,surber,Skillet Glacier Stream,42958,lg,2,1,Allomyia,5,,,,,,,,,,,,,,,,,,,,5,0.21434158,0,1,1,10.76426265,2.307229064,removed
+GTNP,surber,Skillet Glacier Stream,42958,sm,2,1,Allomyia,2,2,3,5,3,2,,,,,,,,,,,,,,,2.833333333,0.036536093,0,1,6,64.58557589,2.359704637,removed
+GTNP,surber,Skillet Glacier Stream,42958,sm,3,1,Allomyia,2,2,2,,,,,,,,,,,,,,,,,,2,0.012345916,0,1,3,32.29278794,0.398684032,removed
+GTNP,surber,Wind Cave,42955,lg,1,1,Allomyia,6,7,,,,,,,,,,,,,,,,,,,6.5,0.485333166,0,1,2,21.5285253,10.44850734,removed
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Allomyia,1,1,1,2,4,5,5,,,,,,,,,,,,,,2.714285714,0.031963324,0,1,7,75.34983854,2.4084313,removed
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,Allomyia,2,2,2,2,4,3,6,,,,,,,,,,,,,,3,0.043656365,0,1,7,75.34983854,3.289500061,removed
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,Allomyia,7,6,2,2,2,2,2,1,2,2,2,5,2,2,2,,,,,,2.733333333,0.03266723,0,1,15,161.4639397,5.274579604,removed
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Allomyia,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1.9,0.010522825,2,1,22,236.8137783,2.491949851,removed
+GTNP,surber,Grizzly Inlet Stream,42954,sm,3,1,Allomyia,2,,,,,,,,,,,,,,,,,,,,2,0.012345916,0,1,1,10.76426265,0.132894677,removed
+ABW,surber,Beartooth Cr,42923,lg,1,3,Allomyia,9,6,6,3,3,,,,,,,,,,,,,,,,5.4,0.272408984,0,1,5,17.94043775,4.887136416,removed
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Allomyia,2,2,,,,,,,,,,,,,,,,,,,2,0.012345916,0,1,2,7.176175099,0.088596452,removed
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,Allomyia,4,,,,,,,,,,,,,,,,,,,,4,0.106962547,0,1,1,3.588087549,0.383790984,removed
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,Baetis,2,4,,,,,,,,,,,,,,,,,,,3,0.134982891,0,1,2,21.5285253,2.905982584,
+GTNP,surber,Wind Cave,42955,sm,1,1,Baetis,3,,,,,,,,,,,,,,,,,,,,3,0.134982891,0,1,1,10.76426265,1.452991292,
+GTNP,surber,Wind Cave,42955,sm,2,1,Baetis,5,,,,,,,,,,,,,,,,,,,,5,0.541635753,0,1,1,10.76426265,5.83030951,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Baetis,3,3,3,,,,,,,,,,,,,,,,,,3,0.134982891,0,1,3,32.29278794,4.358973876,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,Baetis,3,3,3,3,2,,,,,,,,,,,,,,,,2.8,0.111886775,0,1,5,53.82131324,6.021893192,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,Baetis,4,,,,,,,,,,,,,,,,,,,,4,0.295197102,0,1,1,10.76426265,3.177579135,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Baetis,3,2,,,,,,,,,,,,,,,,,,,2.5,0.08220642,0,1,2,21.5285253,1.769782995,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,3,1,Baetis,5,3,6,8,,,,,,,,,,,,,,,,,5.5,0.701932625,0,1,4,43.05705059,30.22314853,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,3,1,Baetis,5,4,3,5,3,2,,,,,,,,,,,,,,,3.666666667,0.232984593,0,1,6,64.58557589,15.04744414,
+GTNP,surber,Delta Inlet Stream,42952,sm,3,1,Baetis,5,,,,,,,,,,,,,,,,,,,,5,0.541635753,0,1,1,10.76426265,5.83030951,
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,Cinygmula,7,6,8,5,4,5,4,4,4,6,5,3,,,,,,,,,5.083333333,2.108555297,0,1,12,129.1711518,272.3645163,
+GTNP,surber,Upper SF Teton Cr,42960,sm,1,1,Cinygmula,2,2,3,3,4,,,,,,,,,,,,,,,,2.8,0.413943219,0,1,5,53.82131324,22.27896766,
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,Cinygmula,6,6,7,7,5,4,3,,,,,,,,,,,,,,5.428571429,2.52284702,0,1,7,75.34983854,190.0961156,
+GTNP,surber,Upper SF Teton Cr,42960,sm,2,1,Cinygmula,2,3,3,2,2,2,2,2,,,,,,,,,,,,,2.25,0.227854506,0,1,8,86.11410118,19.62148599,
+GTNP,surber,Upper SF Teton Cr,42960,lg,3,1,Cinygmula,8,7,6,6,9,8,7,7,6,5,5,,,,,,,,,,6.727272727,4.531061026,0,1,11,118.4068891,536.5088406,
+GTNP,surber,Upper SF Teton Cr,42960,sm,3,1,Cinygmula,6,5,2,5,3,2,3,7,7,2,2,2,2,4,5,2,5,,,,3.764705882,0.928849006,0,1,17,182.992465,169.9723692,
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,2,1,Cinygmula,4,,,,,,,,,,,,,,,,,,,,4,1.096031721,0,1,1,10.76426265,11.79797331,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Cinygmula,3,3,4,4,4,5,5,5,3,2,3,4,2,2,,,,,,,3.5,0.761211092,0,1,14,150.6996771,114.7142658,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,Cinygmula,4,3,2,2,1,,,,,,,,,,,,,,,,2.4,0.271754057,0,1,5,53.82131324,14.62616025,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,Cinygmula,5,5,5,5,3,3,4,4,5,5,4,4,,,,,,,,,4.333333333,1.363715176,0,1,12,129.1711518,176.15266,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Cinygmula,3,4,4,4,2,,,,,,,,,,,,,,,,3.4,0.703293803,0,1,5,53.82131324,37.85219607,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,3,1,Cinygmula,5,3,4,4,3,4,4,5,,,,,,,,,,,,,4,1.096031721,0,1,8,86.11410118,94.3837865,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,3,1,Cinygmula,3,4,4,4,5,5,,,,,,,,,,,,,,,4.166666667,1.225244205,0,1,6,64.58557589,79.1331026,
+ABW,surber,Beartooth Cr,42923,lg,1,3,Cinygmula,6,6,6,7,8,,,,,,,,,,,,,,,,6.6,4.300849952,0,1,5,17.94043775,77.15913082,
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Cinygmula,3,,,,,,,,,,,,,,,,,,,,3,0.499735696,0,1,1,3.588087549,1.79309543,
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,Cinygmula,4,4,3,6,,,,,,,,,,,,,,,,,4.25,1.293305505,0,1,4,14.3523502,18.56197352,
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,3,1,Clinocera,2,,,,,,,,,,,,,,,,,,,,2,0.035715193,0,1,1,10.76426265,0.384447721,
+GTNP,surber,Paintbrush Rock Glacier,42953,sm,3,1,Clinocera,3,2,,,,,,,,,,,,,,,,,,,2.5,0.061507177,0,1,2,21.5285253,1.324158822,
+GTNP,surber,Middle Teton,42952,sm,2,1,Clinocera,5,,,,,,,,,,,,,,,,,,,,5,0.332839504,0,1,1,10.76426265,3.58277184,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Clinocera,3,3,3,,,,,,,,,,,,,,,,,,3,0.095898389,0,1,3,32.29278794,3.096826344,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,Clinocera,6,6,5,3,,,,,,,,,,,,,,,,,5,0.332839504,0,1,4,43.05705059,14.33108736,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Clinocera,7,7,4,4,3,7,,,,,,,,,,,,,,,5.333333333,0.38950482,0,1,6,64.58557589,25.15639314,
+GTNP,surber,Grizzly Inlet Stream,42954,lg,3,1,Clinocera,3,,,,,,,,,,,,,,,,,,,,3,0.095898389,0,1,1,10.76426265,1.032275448,
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Clinocera,6,,,,,,,,,,,,,,,,,,,,6,0.518943864,0,1,1,3.588087549,1.862016018,
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,Clinocera,5,6,7,7,,,,,,,,,,,,,,,,,6.25,0.573201948,0,1,4,14.3523502,8.226795094,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,3,1,Collembola,2,,,,,,,,,,,,,,,,,,,,2,2.7255,0,1,1,10.76426265,29.33799785,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,1,1,Collembola,2,5,3,3,2,,,,,,,,,,,,,,,,3,5.0257,0,1,5,53.82131324,270.489774,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,2,1,Collembola,2,2,2,2,,,,,,,,,,,,,,,,,2,2.7255,0,1,4,43.05705059,117.3519914,
+GTNP,surber,Delta Inlet Stream,42952,sm,3,1,Collembola,1,,,,,,,,,,,,,,,,,,,,1,0.4253,0,1,1,10.76426265,4.578040904,
+ABW,surber,Beartooth Cr,42923,lg,1,3,Collembola,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.4253,15,1,35,125.5830642,53.41047722,
+ABW,surber,Beartooth Cr,42923,sm,1,3,Collembola,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.4253,39,1,59,211.6971654,90.03480445,
+GTNP,surber,Paintbrush Rock Glacier,42953,sm,3,1,Dicranota,8,,,,,,,,,,,,,,,,,,,,8,0.617355988,0,1,1,10.76426265,6.645382006,
+GTNP,surber,Skillet Glacier Stream,42958,lg,1,1,Dicranota,6,,,,,,,,,,,,,,,,,,,,6,0.28911606,0,1,1,10.76426265,3.112121205,
+GTNP,surber,Skillet Glacier Stream,42958,lg,2,1,Dicranota,6,,,,,,,,,,,,,,,,,,,,6,0.28911606,0,1,1,10.76426265,3.112121205,
+GTNP,surber,Middle Teton,42952,lg,3,1,Dicranota,8,7,,,,,,,,,,,,,,,,,,,7.5,0.520743576,0,1,2,21.5285253,11.21084125,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Dicranota,8,,,,,,,,,,,,,,,,,,,,8,0.617355988,0,1,1,10.76426265,6.645382006,
+GTNP,surber,Grizzly Inlet Stream,42954,lg,2,1,Dicranota,8,,,,,,,,,,,,,,,,,,,,8,0.617355988,0,1,1,10.76426265,6.645382006,
+ABW,surber,Beartooth Cr,42923,lg,1,3,Dicranota,7,9,10,12,13,12,12,11,11,8,9,11,12,,,,,,,,10.53846154,1.276882353,0,1,13,46.64513814,59.56035376,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Drunella ,3,3,4,4,3,3,4,4,3,4,4,3,4,,,,,,,,3.538461538,0.150539926,0,1,13,139.9354144,21.065867,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,Drunella ,3,3,,,,,,,,,,,,,,,,,,,3,0.085034104,0,1,2,21.5285253,1.830658869,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,Drunella ,3,3,4,4,4,4,3,3,3,,,,,,,,,,,,3.444444444,0.137146895,0,1,9,96.87836383,13.28656677,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Drunella ,3,3,,,,,,,,,,,,,,,,,,,3,0.085034104,0,1,2,21.5285253,1.830658869,
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Drunella ,3,2,,,,,,,,,,,,,,,,,,,2.5,0.045250776,0,1,2,7.176175099,0.324727492,
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,Drunella ,2,,,,,,,,,,,,,,,,,,,,2,0.020908236,0,1,1,3.588087549,0.07502058,
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,Epeorus,5,5,5,,,,,,,,,,,,,,,,,,5,0.621404308,0,1,3,32.29278794,20.06687754,
+GTNP,surber,Upper SF Teton Cr,42960,sm,1,1,Epeorus,3,,,,,,,,,,,,,,,,,,,,3,0.139394237,0,1,1,10.76426265,1.500476176,
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,Epeorus,5,5,,,,,,,,,,,,,,,,,,,5,0.621404308,0,1,2,21.5285253,13.37791836,
+GTNP,surber,Upper SF Teton Cr,42960,lg,3,1,Epeorus,7,6,5,5,5,5,5,,,,,,,,,,,,,,5.428571429,0.790456483,0,1,7,75.34983854,59.56076835,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Epeorus,3,2,,,,,,,,,,,,,,,,,,,2.5,0.081763692,0,1,2,21.5285253,1.760251707,
+GTNP,surber,Skillet Glacier Stream,42958,lg,1,1,Gonomyodes,5,5,6,6,7,7,,,,,,,,,,,,,,,6,0.28911606,0,1,6,64.58557589,18.67272723,
+GTNP,surber,Skillet Glacier Stream,42958,sm,1,1,Gonomyodes,6,5,5,4,4,4,4,,,,,,,,,,,,,,4.571428571,0.141138121,0,1,7,75.34983854,10.63473462,
+GTNP,surber,Skillet Glacier Stream,42958,lg,2,1,Gonomyodes,6,,,,,,,,,,,,,,,,,,,,6,0.28911606,0,1,1,10.76426265,3.112121205,
+GTNP,surber,Skillet Glacier Stream,42958,sm,2,1,Gonomyodes,5,4,3,4,5,5,4,5,5,4,,,,,,,,,,,4.4,0.127606289,0,1,10,107.6426265,13.73587606,
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Gonomyodes,4,,,,,,,,,,,,,,,,,,,,4,0.099247498,0,1,1,3.588087549,0.356108711,
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,Helodon,4,5,6,6,6,6,7,,,,,,,,,,,,,,5.714285714,0,0,1,7,75.34983854,0,
+GTNP,surber,Upper SF Teton Cr,42960,sm,1,1,Helodon,7,,,,,,,,,,,,,,,,,,,,7,0,0,1,1,10.76426265,0,
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,Helodon,4,,,,,,,,,,,,,,,,,,,,4,0,0,1,1,10.76426265,0,
+GTNP,surber,Upper SF Teton Cr,42960,sm,3,1,Helodon,5,,,,,,,,,,,,,,,,,,,,5,0,0,1,1,10.76426265,0,
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,1,1,Helodon,6,4,,,,,,,,,,,,,,,,,,,5,0,0,1,2,21.5285253,0,
+GTNP,surber,Paintbrush Rock Glacier,42953,sm,1,1,Helodon,3,3,4,4,,,,,,,,,,,,,,,,,3.5,0,0,1,4,43.05705059,0,
+GTNP,surber,Skillet Glacier Stream,42958,lg,1,1,Helodon,6,,,,,,,,,,,,,,,,,,,,6,0,0,1,1,10.76426265,0,
+GTNP,surber,NF Teton Cr,42955,lg,3,1,Helodon,3,4,,,,,,,,,,,,,,,,,,,3.5,0,0,1,2,21.5285253,0,
+GTNP,surber,Middle Teton,42952,lg,1,1,Helodon,4,4,3,,,,,,,,,,,,,,,,,,3.666666667,0,0,1,3,32.29278794,0,
+GTNP,surber,Middle Teton,42952,sm,1,1,Helodon,3,3,3,2,2,,,,,,,,,,,,,,,,2.6,0,0,1,5,53.82131324,0,
+GTNP,surber,Middle Teton,42952,lg,2,1,Helodon,3,4,6,6,7,,,,,,,,,,,,,,,,5.2,0,0,1,5,53.82131324,0,
+GTNP,surber,Middle Teton,42952,sm,2,1,Helodon,4,4,,,,,,,,,,,,,,,,,,,4,0,0,1,2,21.5285253,0,
+GTNP,surber,Middle Teton,42952,lg,3,1,Helodon,5,5,,,,,,,,,,,,,,,,,,,5,0,0,1,2,21.5285253,0,
+GTNP,surber,Middle Teton,42952,sm,3,1,Helodon,4,3,,,,,,,,,,,,,,,,,,,3.5,0,0,1,2,21.5285253,0,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Helodon,7,5,6,6,6,5,7,,,,,,,,,,,,,,6,0,0,1,7,75.34983854,0,
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Helodon,3,,,,,,,,,,,,,,,,,,,,3,0,0,1,1,3.588087549,0,
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,Heterocloeon,5,,,,,,,,,,,,,,,,,,,,5,0.4148592,0,1,1,10.76426265,4.46565339,
+GTNP,surber,Upper SF Teton Cr,42960,sm,1,1,Heterocloeon,5,3,,,,,,,,,,,,,,,,,,,4,0.226052118,0,1,2,21.5285253,4.866568735,
+GTNP,surber,Upper SF Teton Cr,42960,lg,3,1,Heterocloeon,5,,,,,,,,,,,,,,,,,,,,5,0.4148592,0,1,1,10.76426265,4.46565339,
+GTNP,surber,Upper SF Teton Cr,42960,sm,3,1,Heterocloeon,3,3,,,,,,,,,,,,,,,,,,,3,0.103335674,0,1,2,21.5285253,2.224664678,
+GTNP,surber,Skillet Glacier Stream,42958,lg,1,1,Heterocloeon,7,6,6,6,6,5,5,6,6,5,4,6,5,5,4,5,4,,,,5.352941176,0.499463156,0,1,17,182.992465,91.3979941,
+GTNP,surber,Skillet Glacier Stream,42958,sm,1,1,Heterocloeon,6,5,5,4,4,5,6,6,5,4,4,4,4,3,,,,,,,4.642857143,0.33909876,0,1,14,150.6996771,51.10207366,
+GTNP,surber,Skillet Glacier Stream,42958,lg,2,1,Heterocloeon,3,3,4,4,4,5,5,5,6,7,6,5,5,3,3,3,3,,,,4.352941176,0.284532145,0,1,17,182.992465,52.0672386,
+GTNP,surber,Skillet Glacier Stream,42958,sm,2,1,Heterocloeon,3,3,5,5,3,3,3,4,3,3,4,5,6,3,,,,,,,3.785714286,0.194600342,0,1,14,150.6996771,29.32620874,
+GTNP,surber,Skillet Glacier Stream,42958,lg,3,1,Heterocloeon,4,4,4,5,5,5,4,4,3,4,4,6,5,5,4,4,,,,,4.375,0.288472646,0,1,16,172.2282024,49.68312521,
+GTNP,surber,Skillet Glacier Stream,42958,sm,3,1,Heterocloeon,5,5,5,5,3,3,3,4,4,4,3,3,4,2,4,5,5,3,3,4,3.85,0.203723903,10,1,30,322.9278794,65.78812809,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Heterocloeon,2,,,,,,,,,,,,,,,,,,,,2,0.034285143,0,1,1,10.76426265,0.369054281,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,Heterocloeon,4,3,3,2,,,,,,,,,,,,,,,,,3,0.103335674,0,1,4,43.05705059,4.449329356,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,Heterocloeon,3,3,3,,,,,,,,,,,,,,,,,,3,0.103335674,0,1,3,32.29278794,3.336997017,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Heterocloeon,3,2,,,,,,,,,,,,,,,,,,,2.5,0.062921361,0,1,2,21.5285253,1.35460411,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,3,1,Heterocloeon,3,2,2,2,3,,,,,,,,,,,,,,,,2.4,0.056306448,0,1,5,53.82131324,3.030486981,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,3,1,Heterocloeon,2,2,3,3,3,,,,,,,,,,,,,,,,2.6,0.070007702,0,1,5,53.82131324,3.76790647,
+ABW,surber,Beartooth Cr,42923,lg,1,3,Heterocloeon,3,,,,,,,,,,,,,,,,,,,,3,0.103335674,0,1,1,3.588087549,0.370777446,
+GTNP,surber,NF Teton Cr,42955,lg,1,1,Homophylax,15,13,,,,,,,,,,,,,,,,,,,14,9.158786613,0,1,2,21.5285253,197.1751693,
+GTNP,surber,NF Teton Cr,42955,lg,2,1,Homophylax,17,9,,,,,,,,,,,,,,,,,,,13,7.424905274,0,1,2,21.5285253,159.847261,
+GTNP,surber,Grizzly Inlet Stream,42954,lg,3,1,Homophylax,16,14,13,12,11,10,10,10,4,8,,,,,,,,,,,10.8,4.391970548,0,1,10,107.6426265,472.7632453,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,3,1,Homophylax,4,3,,,,,,,,,,,,,,,,,,,3.5,0.180635891,0,1,2,21.5285253,3.888824345,
+ABW,surber,Beartooth Cr,42923,lg,1,3,Homophylax,5,,,,,,,,,,,,,,,,,,,,5,0.49600539,0,1,1,3.588087549,1.779710764,
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Homophylax,2,2,,,,,,,,,,,,,,,,,,,2,0.037027151,0,1,2,7.176175099,0.265713315,
+GTNP,surber,NF Teton Cr,42955,lg,2,1,Hydrophilidae,4,,,,,,,,,,,,,,,,,,,,4,1.98309068,0,1,1,10.76426265,21.34650893,
+GTNP,surber,Skillet Glacier Stream,42958,lg,1,1,Lednia,5,6,7,7,6,6,7,,,,,,,,,,,,,,6.285714286,0.695713527,0,1,7,75.34983854,52.4219019,removed
+GTNP,surber,Skillet Glacier Stream,42958,sm,1,1,Lednia,5,,,,,,,,,,,,,,,,,,,,5,0.380847151,0,1,1,10.76426265,4.09953876,removed
+GTNP,surber,Skillet Glacier Stream,42958,lg,2,1,Lednia,6,6,5,5,4,4,5,5,5,6,,,,,,,,,,,5.1,0.401231446,0,1,10,107.6426265,43.18960669,removed
+GTNP,surber,Skillet Glacier Stream,42958,sm,2,1,Lednia,5,,,,,,,,,,,,,,,,,,,,5,0.380847151,0,1,1,10.76426265,4.09953876,removed
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,3,1,Lednia,4,,,,,,,,,,,,,,,,,,,,4,0.211634588,0,1,1,10.76426265,2.278090289,removed
+GTNP,surber,Delta Inlet Stream,42952,lg,1,1,Lednia,5,6,,,,,,,,,,,,,,,,,,,5.5,0.489483043,0,1,2,21.5285253,10.53784806,removed
+GTNP,surber,Delta Inlet Stream,42952,sm,1,1,Lednia,5,,,,,,,,,,,,,,,,,,,,5,0.380847151,0,1,1,10.76426265,4.09953876,removed
+GTNP,surber,Delta Inlet Stream,42952,lg,2,1,Lednia,6,5,4,,,,,,,,,,,,,,,,,,5,0.380847151,0,1,3,32.29278794,12.29861628,removed
+GTNP,surber,Delta Inlet Stream,42952,sm,2,1,Lednia,7,6,,,,,,,,,,,,,,,,,,,6.5,0.759912446,0,1,2,21.5285253,16.35979432,removed
+GTNP,surber,Delta Inlet Stream,42952,lg,3,1,Lednia,5,5,6,,,,,,,,,,,,,,,,,,5.333333333,0.451388344,0,1,3,32.29278794,14.57658807,removed
+GTNP,surber,Skillet Glacier Stream,42958,lg,1,1,Limonia,8,,,,,,,,,,,,,,,,,,,,8,0.617355988,0,1,1,10.76426265,6.645382006,
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,Chironomidae pupa,5,,,,,,,,,,,,,,,,,,,,5,0.04920642,0,1,1,10.76426265,0.529670827,
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,Chironomidae pupa,4,,,,,,,,,,,,,,,,,,,,4,0.026520459,0,1,1,10.76426265,0.285473183,
+GTNP,surber,Upper SF Teton Cr,42960,sm,3,1,Chironomidae pupa,2,,,,,,,,,,,,,,,,,,,,2,0.003888015,0,1,1,10.76426265,0.041851616,
+GTNP,surber,Skillet Glacier Stream,42958,sm,2,1,Chironomidae pupa,3,4,,,,,,,,,,,,,,,,,,,3.5,0.018320754,0,1,2,21.5285253,0.394418812,
+GTNP,surber,Skillet Glacier Stream,42958,sm,3,1,Chironomidae pupa,3,3,3,3,,,,,,,,,,,,,,,,,3,0.011953655,0,1,4,43.05705059,0.514689145,
+GTNP,surber,Wind Cave,42955,lg,1,1,Chironomidae pupa,5,,,,,,,,,,,,,,,,,,,,5,0.04920642,0,1,1,10.76426265,0.529670827,
+GTNP,surber,Wind Cave,42955,sm,1,1,Chironomidae pupa,4,2,,,,,,,,,,,,,,,,,,,3,0.011953655,0,1,2,21.5285253,0.257344572,
+GTNP,surber,Wind Cave,42955,lg,2,1,Chironomidae pupa,6,,,,,,,,,,,,,,,,,,,,6,0.081536829,0,1,1,10.76426265,0.877683846,
+GTNP,surber,Wind Cave,42955,sm,2,1,Chironomidae pupa,3,4,5,,,,,,,,,,,,,,,,,,4,0.026520459,0,1,3,32.29278794,0.856419549,
+GTNP,surber,Wind Cave,42955,lg,3,1,Chironomidae pupa,4,,,,,,,,,,,,,,,,,,,,4,0.026520459,0,1,1,10.76426265,0.285473183,
+GTNP,surber,Middle Teton,42952,lg,1,1,Chironomidae pupa,4,,,,,,,,,,,,,,,,,,,,4,0.026520459,0,1,1,10.76426265,0.285473183,
+GTNP,surber,Middle Teton,42952,sm,1,1,Chironomidae pupa,3,,,,,,,,,,,,,,,,,,,,3,0.011953655,0,1,1,10.76426265,0.128672286,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,Chironomidae pupa,5,6,7,7,7,7,7,7,6,6,6,6,,,,,,,,,6.416666667,0.098202403,0,1,12,129.1711518,12.68491744,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Chironomidae pupa,6,,,,,,,,,,,,,,,,,,,,6,0.081536829,0,1,1,10.76426265,0.877683846,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,3,1,Chironomidae pupa,3,4,,,,,,,,,,,,,,,,,,,3.5,0.018320754,0,1,2,21.5285253,0.394418812,
+GTNP,surber,Delta Inlet Stream,42952,sm,1,1,Chironomidae pupa,2,2,,,,,,,,,,,,,,,,,,,2,0.003888015,0,1,2,21.5285253,0.083703232,
+ABW,surber,Beartooth Cr,42923,lg,1,3,Chironomidae pupa,2,5,,,,,,,,,,,,,,,,,,,3.5,0.018320754,0,1,2,7.176175099,0.131472937,
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Chironomidae pupa,3,3,3,,,,,,,,,,,,,,,,,,3,0.011953655,0,1,3,10.76426265,0.128672286,
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,Chironomidae pupa,3,4,4,,,,,,,,,,,,,,,,,,3.666666667,0.020840432,0,1,3,10.76426265,0.224331884,
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,Non-Tanypodinae,4,5,6,6,8,8,,,,,,,,,,,,,,,6.166666667,0.087965964,0,1,6,64.58557589,5.681332462,
+GTNP,surber,Upper SF Teton Cr,42960,sm,1,1,Non-Tanypodinae,2,4,5,5,5,8,,,,,,,,,,,,,,,4.833333333,0.044795908,0,1,6,64.58557589,2.893169531,
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,Non-Tanypodinae,2,3,4,5,7,,,,,,,,,,,,,,,,4.2,0.030358156,0,1,5,53.82131324,1.63391583,
+GTNP,surber,Upper SF Teton Cr,42960,sm,2,1,Non-Tanypodinae,2,4,,,,,,,,,,,,,,,,,,,3,0.011953655,0,1,2,21.5285253,0.257344572,
+GTNP,surber,Upper SF Teton Cr,42960,sm,3,1,Non-Tanypodinae,4,2,4,3,,,,,,,,,,,,,,,,,3.25,0.014920788,0,1,4,43.05705059,0.642445132,
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,1,1,Non-Tanypodinae,3,2,,,,,,,,,,,,,,,,,,,2.5,0.007213876,0,1,2,21.5285253,0.155304114,
+GTNP,surber,Paintbrush Rock Glacier,42953,sm,1,1,Non-Tanypodinae,2,4,3,,,,,,,,,,,,,,,,,,3,0.011953655,0,1,3,32.29278794,0.386016858,
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,2,1,Non-Tanypodinae,3,2,2,4,3,1,,,,,,,,,,,,,,,2.5,0.007213876,0,1,6,64.58557589,0.465912343,
+GTNP,surber,Paintbrush Rock Glacier,42953,sm,2,1,Non-Tanypodinae,4,5,,,,,,,,,,,,,,,,,,,4.5,0.036751369,0,1,2,21.5285253,0.791202773,
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,3,1,Non-Tanypodinae,45,5,1,,,,,,,,,,,,,,,,,,17,1.459547952,0,1,3,32.29278794,47.13287251,
+GTNP,surber,Paintbrush Rock Glacier,42953,sm,3,1,Non-Tanypodinae,5,3,,,,,,,,,,,,,,,,,,,4,0.026520459,0,1,2,21.5285253,0.570946366,
+GTNP,surber,Skillet Glacier Stream,42958,lg,1,1,Non-Tanypodinae,7,6,6,5,3,4,5,5,6,7,6,4,3,8,8,7,6,6,3,4,5.45,0.062473116,6,1,26,279.8708288,17.48440271,
+GTNP,surber,Skillet Glacier Stream,42958,sm,1,1,Non-Tanypodinae,2,2,3,5,2,3,3,5,5,4,3,3,4,3,2,1,1,4,1,2,2.9,0.010882215,2,1,22,236.8137783,2.577058496,
+GTNP,surber,Skillet Glacier Stream,42958,lg,2,1,Non-Tanypodinae,7,7,7,6,6,5,5,4,4,4,5,3,2,2,4,5,5,7,6,5,4.95,0.047855434,20,1,40,430.5705059,20.60513831,
+GTNP,surber,Skillet Glacier Stream,42958,sm,2,1,Non-Tanypodinae,1,2,3,4,1,1,2,3,3,2,1,1,1,1,2,2,2,3,3,2,2,0.003888015,83,1,103,1108.719053,4.310716426,
+GTNP,surber,Skillet Glacier Stream,42958,lg,3,1,Non-Tanypodinae,3,4,5,6,3,6,6,7,7,6,4,7,,,,,,,,,5.333333333,0.058838465,0,1,12,129.1711518,7.600232256,
+GTNP,surber,Skillet Glacier Stream,42958,sm,3,1,Non-Tanypodinae,1,2,3,3,4,4,4,4,3,1,2,2,2,2,3,4,5,5,4,,3.052631579,0.012543621,0,1,19,204.5209903,2.565433787,
+GTNP,surber,NF Teton Cr,42955,lg,1,1,Non-Tanypodinae,5,4,,,,,,,,,,,,,,,,,,,4.5,0.036751369,0,1,2,21.5285253,0.791202773,
+GTNP,surber,NF Teton Cr,42955,sm,1,1,Non-Tanypodinae,3,4,5,4,4,3,3,,,,,,,,,,,,,,3.714285714,0.021598792,0,1,7,75.34983854,1.627465477,
+GTNP,surber,NF Teton Cr,42955,lg,2,1,Non-Tanypodinae,4,4,2,,,,,,,,,,,,,,,,,,3.333333333,0.016004753,0,1,3,32.29278794,0.516838099,
+GTNP,surber,NF Teton Cr,42955,sm,2,1,Non-Tanypodinae,2,3,6,2,4,,,,,,,,,,,,,,,,3.4,0.016907191,0,1,5,53.82131324,0.909967216,
+GTNP,surber,NF Teton Cr,42955,lg,3,1,Non-Tanypodinae,4,6,6,8,,,,,,,,,,,,,,,,,6,0.081536829,0,1,4,43.05705059,3.510735385,
+GTNP,surber,NF Teton Cr,42955,sm,3,1,Non-Tanypodinae,1,2,3,6,2,,,,,,,,,,,,,,,,2.8,0.009874216,0,1,5,53.82131324,0.531443247,
+GTNP,surber,Wind Cave,42955,lg,1,1,Non-Tanypodinae,10,10,9,9,8,6,5,5,5,4,4,3,3,3,2,2,2,5,6,6,5.35,0.059349195,60,1,80,861.1410118,51.10802574,
+GTNP,surber,Wind Cave,42955,sm,1,1,Non-Tanypodinae,3,1,1,2,3,4,4,3,3,3,2,2,3,3,4,4,5,3,3,4,3,0.011953655,438,1,458,4930.032293,58.93190706,
+GTNP,surber,Wind Cave,42955,lg,2,1,Non-Tanypodinae,6,5,5,5,5,4,4,4,4,4,4,4,4,3,3,3,3,2,2,3,3.85,0.02385619,47,1,67,721.2055974,17.20521742,
+GTNP,surber,Wind Cave,42955,sm,2,1,Non-Tanypodinae,3,3,4,5,7,3,2,2,2,2,3,4,5,5,4,4,4,3,2,2,3.45,0.017604908,86,1,106,1141.011841,20.08740798,
+GTNP,surber,Wind Cave,42955,lg,3,1,Non-Tanypodinae,9,8,8,8,7,8,8,6,5,5,4,4,4,3,3,4,7,9,7,6,6.15,0.087308982,4,1,24,258.3423036,22.55560363,
+GTNP,surber,Wind Cave,42955,sm,3,1,Non-Tanypodinae,3,3,2,2,2,2,2,3,3,4,4,4,3,2,2,2,3,4,5,8,3.15,0.013683434,0,1,20,215.285253,2.945841468,
+GTNP,surber,Middle Teton,42952,lg,1,1,Non-Tanypodinae,3,3,4,4,4,3,4,6,6,7,8,6,6,4,3,2,4,6,6,7,4.8,0.043945366,58,1,78,839.6124865,36.89707779,
+GTNP,surber,Middle Teton,42952,sm,1,1,Non-Tanypodinae,2,2,2,3,4,4,3,3,3,3,3,2,2,2,2,3,3,3,2,2,2.65,0.008477463,41,1,61,656.6200215,5.566472239,
+GTNP,surber,Middle Teton,42952,lg,2,1,Non-Tanypodinae,7,7,6,6,3,3,2,2,2,3,6,7,6,4,4,4,5,6,6,6,4.75,0.042689017,53,1,73,785.7911733,33.54465275,
+GTNP,surber,Middle Teton,42952,sm,2,1,Non-Tanypodinae,2,3,3,3,4,4,3,3,3,3,3,3,4,5,5,4,4,3,3,2,3.35,0.016227401,108,1,128,1377.825619,22.35852898,
+GTNP,surber,Middle Teton,42952,lg,3,1,Non-Tanypodinae,8,7,7,7,6,4,6,7,8,8,7,7,5,3,3,4,5,6,6,7,6.05,0.083432882,43,1,63,678.1485468,56.57988741,
+GTNP,surber,Middle Teton,42952,sm,3,1,Non-Tanypodinae,6,6,5,4,4,3,4,4,6,7,3,3,3,2,2,2,2,3,4,6,3.95,0.025612314,29,1,49,527.4488698,13.50918585,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Non-Tanypodinae,2,2,2,4,2,2,1,2,2,2,2,10,10,2,2,2,1,1,1,4,2.8,0.009874216,118,1,138,1485.468245,14.66783362,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,Non-Tanypodinae,1,2,2,2,3,1,1,1,2,3,3,2,2,1,1,3,3,2,2,1,1.9,0.003373047,296,1,316,3401.506997,11.47344132,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,Non-Tanypodinae,3,3,2,2,12,5,2,2,2,1,10,10,2,2,2,1,1,3,3,2,3.5,0.018320754,160,1,180,1937.567277,35.49769304,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Non-Tanypodinae,2,2,2,3,3,3,2,2,2,2,1,2,3,3,3,3,2,2,2,1,2.25,0.005387911,517,1,537,5780.409042,31.14433072,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,3,1,Non-Tanypodinae,2,3,4,,,,,,,,,,,,,,,,,,3,0.011953655,0,1,3,32.29278794,0.386016858,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,3,1,Non-Tanypodinae,3,5,,,,,,,,,,,,,,,,,,,4,0.026520459,0,1,2,21.5285253,0.570946366,
+GTNP,surber,Grizzly Inlet Stream,42954,lg,1,1,Non-Tanypodinae,3,2,,,,,,,,,,,,,,,,,,,2.5,0.007213876,0,1,2,21.5285253,0.155304114,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,1,1,Non-Tanypodinae,2,2,3,2,3,3,3,2,3,4,2,2,2,3,4,3,3,3,4,3,2.8,0.009874216,4,1,24,258.3423036,2.550927585,
+GTNP,surber,Grizzly Inlet Stream,42954,lg,2,1,Non-Tanypodinae,3,,,,,,,,,,,,,,,,,,,,3,0.011953655,0,1,1,10.76426265,0.128672286,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,2,1,Non-Tanypodinae,2,2,,,,,,,,,,,,,,,,,,,2,0.003888015,0,1,2,21.5285253,0.083703232,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,3,1,Non-Tanypodinae,2,2,3,5,3,3,3,,,,,,,,,,,,,,3,0.011953655,0,1,7,75.34983854,0.900706003,
+GTNP,surber,Delta Inlet Stream,42952,lg,1,1,Non-Tanypodinae,3,3,4,5,6,10,10,9,8,8,7,2,3,5,7,7,7,7,3,3,5.85,0.076014528,103,1,123,1324.004306,100.6435627,
+GTNP,surber,Delta Inlet Stream,42952,sm,1,1,Non-Tanypodinae,1,2,2,3,3,2,3,3,3,4,3,2,2,2,2,4,4,5,3,3,2.8,0.009874216,445,1,465,5005.382131,49.42422197,
+GTNP,surber,Delta Inlet Stream,42952,lg,2,1,Non-Tanypodinae,1,2,2,3,4,4,3,3,5,5,7,5,5,5,8,9,2,2,6,7,4.4,0.034533355,178,1,198,2131.324004,73.60176785,
+GTNP,surber,Delta Inlet Stream,42952,sm,2,1,Non-Tanypodinae,4,3,3,3,2,2,3,4,4,4,4,3,3,2,2,3,3,3,4,5,3.2,0.014293556,398,1,418,4499.461787,64.31331022,
+GTNP,surber,Delta Inlet Stream,42952,lg,3,1,Non-Tanypodinae,1,1,2,2,3,2,1,8,8,8,8,8,7,7,5,2,2,1,4,3,4.15,0.029367575,76,1,96,1033.369214,30.34754769,
+GTNP,surber,Delta Inlet Stream,42952,sm,3,1,Non-Tanypodinae,3,2,2,2,2,2,3,4,4,4,3,2,2,1,1,2,2,2,3,3,2.45,0.006821265,635,1,655,7050.592034,48.0939553,
+ABW,surber,Beartooth Cr,42923,lg,1,3,Non-Tanypodinae,2,2,3,4,5,8,6,6,3,2,2,3,4,5,7,6,5,4,2,2,4.05,0.027448921,660,1,680,2439.899534,66.97260842,
+ABW,surber,Beartooth Cr,42923,sm,1,3,Non-Tanypodinae,4,4,3,2,2,2,2,2,2,4,4,3,3,2,1,2,2,2,2,3,2.55,0.007620635,17,1,37,132.7592393,1.011709693,
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Non-Tanypodinae,2,2,3,4,5,5,4,2,1,4,5,5,8,7,7,4,3,2,2,2,3.85,0.02385619,64,1,84,301.3993541,7.190240116,
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,Non-Tanypodinae,6,7,7,7,7,8,7,7,5,4,7,7,7,8,8,9,7,6,5,2,6.55,0.103959278,367,1,387,1388.589882,144.3568022,
+ABW,surber,Froze to Death,42940,lg,1,3,Non-Tanypodinae,3,3,3,4,4,5,4,3,2,2,2,3,3,3,4,4,8,8,7,4,3.95,0.025612314,70,1,90,322.9278794,8.270930115,
+ABW,surber,Froze to Death,42940,sm,1,3,Non-Tanypodinae,1,2,2,3,3,2,2,2,2,1,2,2,3,3,3,3,4,5,6,6,2.85,0.010370391,111,1,131,470.039469,4.87449293,
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,1,1,Oligochaeta,3,3,3,3,3,4,4,4,2,3,3,4,4,5,6,6,4,4,3,2,3.65,0.291543725,53,1,73,785.7911733,229.0924859,
+GTNP,surber,Paintbrush Rock Glacier,42953,sm,1,1,Oligochaeta,3,3,3,2,2,4,2,2,2,2,4,3,2,2,3,3,4,5,6,5,3.1,0.247612479,35,1,55,592.0344456,146.5951167,
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,2,1,Oligochaeta,2,2,3,3,4,6,4,2,2,2,3,3,3,2,2,2,3,4,4,6,3.1,0.247612479,38,1,58,624.3272336,154.591214,
+GTNP,surber,Paintbrush Rock Glacier,42953,sm,2,1,Oligochaeta,3,4,4,4,5,5,2,2,3,3,2,3,,,,,,,,,3.333333333,0.266249977,0,1,12,129.1711518,34.39181624,
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,3,1,Oligochaeta,2,3,4,5,5,4,3,3,3,2,6,5,4,3,3,3,3,4,5,6,3.8,0.303524974,52,1,72,775.0269107,235.2400231,
+GTNP,surber,Paintbrush Rock Glacier,42953,sm,3,1,Oligochaeta,3,3,4,4,4,3,3,3,3,2,2,3,3,4,2,2,2,2,3,4,2.95,0.23563123,49,1,69,742.7341227,175.0113549,
+GTNP,surber,Skillet Glacier Stream,42958,sm,1,1,Oligochaeta,3,2,,,,,,,,,,,,,,,,,,,2.5,0.199687483,0,1,2,21.5285253,4.29897703,
+GTNP,surber,Skillet Glacier Stream,42958,sm,2,1,Oligochaeta,3,,,,,,,,,,,,,,,,,,,,3,0.23962498,0,1,1,10.76426265,2.579386218,
+GTNP,surber,Middle Teton,42952,sm,1,1,Oligochaeta,3,,,,,,,,,,,,,,,,,,,,3,0.23962498,0,1,1,10.76426265,2.579386218,
+GTNP,surber,Middle Teton,42952,lg,2,1,Oligochaeta,4,,,,,,,,,,,,,,,,,,,,4,0.319499973,0,1,1,10.76426265,3.439181624,
+GTNP,surber,Middle Teton,42952,sm,2,1,Oligochaeta,3,,,,,,,,,,,,,,,,,,,,3,0.23962498,0,1,1,10.76426265,2.579386218,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,Oligochaeta,3,4,3,,,,,,,,,,,,,,,,,,3.333333333,0.266249977,0,1,3,32.29278794,8.59795406,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,Oligochaeta,7,,,,,,,,,,,,,,,,,,,,7,0.559124953,0,1,1,10.76426265,6.018567842,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Oligochaeta,4,4,3,3,3,2,4,3,3,2,2,2,2,2,2,,,,,,2.733333333,0.218324981,0,1,15,161.4639397,35.25161165,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,1,1,Oligochaeta,3,,,,,,,,,,,,,,,,,,,,3,0.23962498,0,1,1,10.76426265,2.579386218,
+GTNP,surber,Grizzly Inlet Stream,42954,lg,2,1,Oligochaeta,2,,,,,,,,,,,,,,,,,,,,2,0.159749986,0,1,1,10.76426265,1.719590812,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,2,1,Oligochaeta,4,4,2,,,,,,,,,,,,,,,,,,3.333333333,0.266249977,0,1,3,32.29278794,8.59795406,
+GTNP,surber,Delta Inlet Stream,42952,lg,2,1,Oligochaeta,3,,,,,,,,,,,,,,,,,,,,3,0.23962498,0,1,1,10.76426265,2.579386218,
+GTNP,surber,Delta Inlet Stream,42952,lg,3,1,Oligochaeta,3,2,2,2,2,2,3,1,,,,,,,,,,,,,2.125,0.169734361,0,1,8,86.11410118,14.6165219,
+GTNP,surber,Delta Inlet Stream,42952,sm,3,1,Oligochaeta,4,4,4,3,2,2,2,3,3,4,2,2,2,,,,,,,,2.846153846,0.227336519,0,1,13,139.9354144,31.81243002,
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,Oligochaeta,25,28,,,,,,,,,,,,,,,,,,,26.5,2.11668732,0,1,2,7.176175099,15.18971884,
+ABW,surber,Beartooth Cr,42923,sm,1,3,Ostracoda,1,1,1,1,,,,,,,,,,,,,,,,,1,0.223175,0,1,4,14.3523502,3.203085755,
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Ostracoda,1,,,,,,,,,,,,,,,,,,,,1,0.223175,0,1,1,3.588087549,0.800771439,
+GTNP,surber,Upper SF Teton Cr,42960,sm,2,1,Probezzia,5,,,,,,,,,,,,,,,,,,,,5,0.022344239,0,1,1,10.76426265,0.240519255,
+GTNP,surber,Upper SF Teton Cr,42960,sm,3,1,Probezzia,6,,,,,,,,,,,,,,,,,,,,6,0.037713333,0,1,1,10.76426265,0.405956226,
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,Probezzia,8,8,9,,,,,,,,,,,,,,,,,,8.333333333,0.096848595,0,1,3,10.76426265,1.042503711,
+GTNP,surber,Skillet Glacier Stream,42958,lg,1,1,Prosimulium,7,7,7,8,,,,,,,,,,,,,,,,,7.25,0.750072346,0,1,4,43.05705059,32.29590296,
+GTNP,surber,Skillet Glacier Stream,42958,sm,1,1,Prosimulium,5,5,,,,,,,,,,,,,,,,,,,5,0.290813624,0,1,2,21.5285253,6.260788461,
+GTNP,surber,Skillet Glacier Stream,42958,lg,2,1,Prosimulium,8,7,6,5,4,5,6,7,8,8,7,7,7,6,6,7,7,,,,6.529411765,0.574341349,0,1,17,182.992465,105.1001392,
+GTNP,surber,Skillet Glacier Stream,42958,sm,2,1,Prosimulium,2,3,3,4,4,7,,,,,,,,,,,,,,,3.833333333,0.14769355,0,1,6,64.58557589,9.53887301,
+GTNP,surber,Skillet Glacier Stream,42958,lg,3,1,Prosimulium,8,6,6,5,6,6,6,6,4,6,6,7,8,7,7,5,5,5,6,7,6.1,0.482872327,17,1,37,398.277718,192.3172883,
+GTNP,surber,Skillet Glacier Stream,42958,sm,3,1,Prosimulium,3,4,4,5,5,6,6,6,6,7,5,,,,,,,,,,5.181818182,0.318544985,0,1,11,118.4068891,37.71792072,
+GTNP,surber,NF Teton Cr,42955,lg,1,1,Prosimulium,4,4,5,5,5,5,,,,,,,,,,,,,,,4.666666667,0.243898163,0,1,6,64.58557589,15.7523033,
+GTNP,surber,NF Teton Cr,42955,sm,1,1,Prosimulium,3,4,5,5,5,5,6,7,4,4,,,,,,,,,,,4.8,0.262063413,0,1,10,107.6426265,28.20919407,
+GTNP,surber,NF Teton Cr,42955,lg,2,1,Prosimulium,3,3,3,3,3,6,4,4,4,4,4,4,3,5,4,4,2,2,3,4,3.6,0.125838234,8,1,28,301.3993541,37.92756241,
+GTNP,surber,NF Teton Cr,42955,sm,2,1,Prosimulium,2,4,5,5,7,5,4,4,4,2,3,4,4,5,6,5,4,4,4,2,4.15,0.180827253,0,1,20,215.285253,38.92944083,
+GTNP,surber,NF Teton Cr,42955,lg,3,1,Prosimulium,3,3,3,3,4,4,5,6,4,4,4,3,3,3,4,4,4,4,,,3.777777778,0.142296454,0,1,18,193.7567277,27.57089523,
+GTNP,surber,NF Teton Cr,42955,sm,3,1,Prosimulium,3,3,4,4,5,6,3,4,,,,,,,,,,,,,4,0.164624404,0,1,8,86.11410118,14.17648257,
+GTNP,surber,Wind Cave,42955,sm,1,1,Prosimulium,3,,,,,,,,,,,,,,,,,,,,3,0.079049738,0,1,1,10.76426265,0.850912146,
+GTNP,surber,Grizzly Inlet Stream,42954,lg,1,1,Prosimulium,5,5,4,4,4,4,4,4,3,3,3,4,,,,,,,,,3.916666667,0.156019398,0,1,12,129.1711518,20.15320533,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,1,1,Prosimulium,4,4,4,3,3,3,4,2,2,3,4,4,5,4,4,4,4,4,3,2,3.5,0.117115601,2,1,22,236.8137783,27.73458791,
+GTNP,surber,Grizzly Inlet Stream,42954,lg,2,1,Prosimulium,3,4,5,5,5,,,,,,,,,,,,,,,,4.4,0.20991601,0,1,5,53.82131324,11.29795532,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,2,1,Prosimulium,5,4,3,3,3,,,,,,,,,,,,,,,,3.6,0.125838234,0,1,5,53.82131324,6.772779002,
+GTNP,surber,Grizzly Inlet Stream,42954,lg,3,1,Prosimulium,3,4,,,,,,,,,,,,,,,,,,,3.5,0.117115601,0,1,2,21.5285253,2.521326173,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,3,1,Prosimulium,4,4,4,4,4,5,5,4,3,3,4,,,,,,,,,,4,0.164624404,0,1,11,118.4068891,19.49266353,
+GTNP,surber,Delta Inlet Stream,42952,sm,1,1,Prosimulium,2,,,,,,,,,,,,,,,,,,,,2,0.028110445,0,1,1,10.76426265,0.302588217,
+GTNP,surber,Delta Inlet Stream,42952,sm,2,1,Prosimulium,2,3,,,,,,,,,,,,,,,,,,,2.5,0.04965789,0,1,2,21.5285253,1.069061135,
+ABW,surber,Beartooth Cr,42923,lg,1,3,Prosimulium,8,8,8,9,,,,,,,,,,,,,,,,,8.25,1.042794678,0,1,4,14.3523502,14.96655441,
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,Rhyacophila ,10,10,10,9,5,4,,,,,,,,,,,,,,,8,1.719089004,0,1,6,64.58557589,111.0283533,removed
+GTNP,surber,Upper SF Teton Cr,42960,sm,2,1,Rhyacophila ,3,,,,,,,,,,,,,,,,,,,,3,0.150971825,0,1,1,10.76426265,1.625100382,removed
+GTNP,surber,Upper SF Teton Cr,42960,lg,3,1,Rhyacophila ,8,8,5,5,8,,,,,,,,,,,,,,,,6.8,1.148834048,0,1,5,53.82131324,61.83175713,removed
+GTNP,surber,Upper SF Teton Cr,42960,sm,3,1,Rhyacophila ,5,,,,,,,,,,,,,,,,,,,,5,0.535896358,0,1,1,10.76426265,5.768529147,removed
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,1,1,Rhyacophila ,3,,,,,,,,,,,,,,,,,,,,3,0.150971825,0,1,1,10.76426265,1.625100382,removed
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,2,1,Rhyacophila ,4,5,,,,,,,,,,,,,,,,,,,4.5,0.412669364,0,1,2,21.5285253,8.884162844,removed
+GTNP,surber,Paintbrush Rock Glacier,42953,lg,3,1,Rhyacophila ,3,,,,,,,,,,,,,,,,,,,,3,0.150971825,0,1,1,10.76426265,1.625100382,removed
+GTNP,surber,Skillet Glacier Stream,42958,lg,1,1,Rhyacophila ,7,,,,,,,,,,,,,,,,,,,,7,1.234463728,0,1,1,10.76426265,13.2880918,removed
+GTNP,surber,Skillet Glacier Stream,42958,lg,2,1,Rhyacophila ,17,15,13,11,10,,,,,,,,,,,,,,,,13.2,5.951939992,0,1,5,53.82131324,320.3412267,removed
+GTNP,surber,Skillet Glacier Stream,42958,sm,2,1,Rhyacophila ,3,3,,,,,,,,,,,,,,,,,,,3,0.150971825,0,1,2,21.5285253,3.250200763,removed
+GTNP,surber,Skillet Glacier Stream,42958,lg,3,1,Rhyacophila ,10,8,7,,,,,,,,,,,,,,,,,,8.333333333,1.902241729,0,1,3,32.29278794,61.42868877,removed
+GTNP,surber,Skillet Glacier Stream,42958,sm,3,1,Rhyacophila ,3,,,,,,,,,,,,,,,,,,,,3,0.150971825,0,1,1,10.76426265,1.625100382,removed
+GTNP,surber,NF Teton Cr,42955,lg,1,1,Rhyacophila ,4,5,5,,,,,,,,,,,,,,,,,,4.666666667,0.451618799,0,1,3,32.29278794,14.5840301,removed
+GTNP,surber,NF Teton Cr,42955,lg,2,1,Rhyacophila ,4,5,9,,,,,,,,,,,,,,,,,,6,0.842267989,0,1,3,32.29278794,27.19918157,removed
+GTNP,surber,NF Teton Cr,42955,sm,2,1,Rhyacophila ,4,,,,,,,,,,,,,,,,,,,,4,0.308137087,0,1,1,10.76426265,3.31686854,removed
+GTNP,surber,NF Teton Cr,42955,lg,3,1,Rhyacophila ,3,,,,,,,,,,,,,,,,,,,,3,0.150971825,0,1,1,10.76426265,1.625100382,removed
+GTNP,surber,Wind Cave,42955,lg,1,1,Rhyacophila ,16,11,9,7,6,2,2,,,,,,,,,,,,,,7.571428571,1.499671755,0,1,7,75.34983854,113.0000246,removed
+GTNP,surber,Wind Cave,42955,sm,1,1,Rhyacophila ,5,5,5,2,2,2,2,2,4,2,2,2,2,2,2,2,2,2,2,2,2.55,0.100891561,18,1,38,409.0419806,41.26888399,removed
+GTNP,surber,Wind Cave,42955,lg,2,1,Rhyacophila ,17,,,,,,,,,,,,,,,,,,,,17,11.14675664,0,1,1,10.76426265,119.9866162,removed
+GTNP,surber,Wind Cave,42955,lg,3,1,Rhyacophila ,4,,,,,,,,,,,,,,,,,,,,4,0.308137087,0,1,1,10.76426265,3.31686854,removed
+GTNP,surber,Wind Cave,42955,sm,3,1,Rhyacophila ,2,2,,,,,,,,,,,,,,,,,,,2,0.055231849,0,1,2,21.5285253,1.189060262,removed
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,Rhyacophila ,11,7,,,,,,,,,,,,,,,,,,,9,2.302271927,0,1,2,21.5285253,49.56451943,removed
+GTNP,surber,Delta Inlet Stream,42952,lg,2,1,Rhyacophila ,9,7,,,,,,,,,,,,,,,,,,,8,1.719089004,0,1,2,21.5285253,37.0094511,removed
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,Rhyacophila ,5,6,8,8,7,6,5,4,3,5,7,12,6,5,2,,,,,,5.933333333,0.819249318,0,1,15,53.82131324,44.09307418,removed
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,Rithrogena,10,,,,,,,,,,,,,,,,,,,,10,4.722674643,0,1,1,10.76426265,50.83611026,
+GTNP,surber,Skillet Glacier Stream,42958,lg,2,1,Simuliidae pupa,4,,,,,,,,,,,,,,,,,,,,4,0.164624404,0,1,1,10.76426265,1.772060321,
+GTNP,surber,Upper SF Teton Cr,42960,sm,2,1,Skwala,6,,,,,,,,,,,,,,,,,,,,6,0.80312842,0,1,1,10.76426265,8.645085256,
+GTNP,surber,Upper SF Teton Cr,42960,sm,3,1,Skwala,4,6,4,6,4,,,,,,,,,,,,,,,,4.8,0.449492087,0,1,5,53.82131324,24.19225441,
+GTNP,surber,Delta Inlet Stream,42952,lg,2,1,Staphylinidae,4,8,,,,,,,,,,,,,,,,,,,6,1.357803532,0,1,2,21.5285253,29.23150769,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Suwallia,10,,,,,,,,,,,,,,,,,,,,10,3.283913352,0,1,1,10.76426265,35.34890584,
+GTNP,surber,Delta Inlet Stream,42952,lg,1,1,Suwallia,8,,,,,,,,,,,,,,,,,,,,8,1.788170039,0,1,1,10.76426265,19.24833196,
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,Sweltsa,6,6,5,5,4,4,,,,,,,,,,,,,,,5,0.497033866,0,1,6,64.58557589,32.1012185,
+GTNP,surber,Upper SF Teton Cr,42960,sm,1,1,Sweltsa,4,4,4,5,5,,,,,,,,,,,,,,,,4.4,0.350878518,0,1,5,53.82131324,18.88474264,
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,Sweltsa,5,5,,,,,,,,,,,,,,,,,,,5,0.497033866,0,1,2,21.5285253,10.70040617,
+GTNP,surber,Upper SF Teton Cr,42960,lg,3,1,Sweltsa,6,5,6,7,4,4,7,,,,,,,,,,,,,,5.571428571,0.667428301,0,1,7,75.34983854,50.29061471,
+GTNP,surber,Wind Cave,42955,lg,1,1,Sweltsa,4,,,,,,,,,,,,,,,,,,,,4,0.27064693,0,1,1,10.76426265,2.913314644,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Sweltsa,3,3,3,4,4,5,3,2,,,,,,,,,,,,,3.375,0.170376408,0,1,8,86.11410118,14.67181126,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,Sweltsa,3,3,2,,,,,,,,,,,,,,,,,,2.666666667,0.08968721,0,1,3,32.29278794,2.896250068,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Sweltsa,4,,,,,,,,,,,,,,,,,,,,4,0.27064693,0,1,1,10.76426265,2.913314644,
+ABW,surber,Beartooth Cr,42923,lg,1,3,Sweltsa,5,6,,,,,,,,,,,,,,,,,,,5.5,0.644376444,0,1,2,7.176175099,4.62415819,
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Sweltsa,6,6,4,3,2,2,3,6,4,3,3,3,4,4,4,4,3,5,3,3,3.75,0.227014116,2,1,22,78.93792609,17.9200235,
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,Sweltsa,5,4,5,3,4,4,4,3,3,3,7,8,3,3,5,5,7,7,3,3,4.45,0.361846486,49,1,69,247.5780409,89.58524411,
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,Tipula,17,12,7,18,14,13,12,12,11,,,,,,,,,,,,12.88888889,3.134440256,0,1,9,96.87836383,303.6594435,
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,Tipula,10,12,13,,,,,,,,,,,,,,,,,,11.66666667,2.457279663,0,1,3,32.29278794,79.35241107,
+GTNP,surber,Upper SF Teton Cr,42960,lg,3,1,Tipula,16,16,13,13,16,16,15,13,15,,,,,,,,,,,,14.77777778,4.377827929,0,1,9,96.87836383,424.1168069,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Tipula,12,,,,,,,,,,,,,,,,,,,,12,2.632348366,0,1,1,10.76426265,28.33528919,
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,Turbellaria,4,5,,,,,,,,,,,,,,,,,,,4.5,0.152738715,0,1,2,21.5285253,3.288239288,
+GTNP,surber,Upper SF Teton Cr,42960,sm,1,1,Turbellaria,2,4,,,,,,,,,,,,,,,,,,,3,0.062647038,0,1,2,21.5285253,1.348698351,
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,Turbellaria,5,3,6,,,,,,,,,,,,,,,,,,4.666666667,0.165449299,0,1,3,32.29278794,5.34281913,
+GTNP,surber,Upper SF Teton Cr,42960,sm,2,1,Turbellaria,3,3,,,,,,,,,,,,,,,,,,,3,0.062647038,0,1,2,21.5285253,1.348698351,
+GTNP,surber,Upper SF Teton Cr,42960,lg,3,1,Turbellaria,5,4,,,,,,,,,,,,,,,,,,,4.5,0.152738715,0,1,2,21.5285253,3.288239288,
+GTNP,surber,Upper SF Teton Cr,42960,sm,3,1,Turbellaria,3,,,,,,,,,,,,,,,,,,,,3,0.062647038,0,1,1,10.76426265,0.674349176,
+GTNP,surber,Skillet Glacier Stream,42958,lg,2,1,Turbellaria,5,,,,,,,,,,,,,,,,,,,,5,0.192541387,0,1,1,10.76426265,2.072566063,
+GTNP,surber,NF Teton Cr,42955,lg,1,1,Turbellaria,5,6,,,,,,,,,,,,,,,,,,,5.5,0.237413395,0,1,2,21.5285253,5.111160281,
+GTNP,surber,Wind Cave,42955,lg,1,1,Turbellaria,3,,,,,,,,,,,,,,,,,,,,3,0.062647038,0,1,1,10.76426265,0.674349176,
+GTNP,surber,Wind Cave,42955,sm,1,1,Turbellaria,2,2,3,2,2,3,3,,,,,,,,,,,,,,2.428571429,0.039372162,0,1,7,75.34983854,2.966686055,
+GTNP,surber,Wind Cave,42955,lg,3,1,Turbellaria,3,,,,,,,,,,,,,,,,,,,,3,0.062647038,0,1,1,10.76426265,0.674349176,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,Turbellaria,3,2,,,,,,,,,,,,,,,,,,,2.5,0.041962385,0,1,2,21.5285253,0.903388271,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,Turbellaria,5,3,2,,,,,,,,,,,,,,,,,,3.333333333,0.078972431,0,1,3,32.29278794,2.55023998,
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Turbellaria,2,3,3,5,2,4,,,,,,,,,,,,,,,3.166666667,0.070552433,0,1,6,64.58557589,4.556669501,
+GTNP,surber,Grizzly Inlet Stream,42954,lg,1,1,Turbellaria,4,3,3,,,,,,,,,,,,,,,,,,3.333333333,0.078972431,0,1,3,32.29278794,2.55023998,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,1,1,Turbellaria,4,3,3,3,2,3,3,3,4,3,2,,,,,,,,,,3,0.062647038,0,1,11,118.4068891,7.417840931,
+GTNP,surber,Grizzly Inlet Stream,42954,lg,2,1,Turbellaria,4,4,4,6,4,,,,,,,,,,,,,,,,4.4,0.145377438,0,1,5,53.82131324,7.82440461,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,2,1,Turbellaria,3,4,3,2,,,,,,,,,,,,,,,,,3,0.062647038,0,1,4,43.05705059,2.697396702,
+GTNP,surber,Grizzly Inlet Stream,42954,lg,3,1,Turbellaria,5,5,3,3,3,3,4,3,4,4,5,4,4,,,,,,,,3.846153846,0.108162473,0,1,13,139.9354144,15.13576048,
+GTNP,surber,Grizzly Inlet Stream,42954,sm,3,1,Turbellaria,4,4,4,3,3,3,3,3,4,3,,,,,,,,,,,3.4,0.082485704,0,1,10,107.6426265,8.878977852,
+GTNP,surber,Delta Inlet Stream,42952,lg,2,1,Turbellaria,2,3,3,,,,,,,,,,,,,,,,,,2.666666667,0.048357885,0,1,3,32.29278794,1.561610934,
+GTNP,surber,Delta Inlet Stream,42952,sm,2,1,Turbellaria,2,3,3,3,3,2,,,,,,,,,,,,,,,2.666666667,0.048357885,0,1,6,64.58557589,3.123221869,
+GTNP,surber,Delta Inlet Stream,42952,lg,3,1,Turbellaria,3,,,,,,,,,,,,,,,,,,,,3,0.062647038,0,1,1,10.76426265,0.674349176,
+GTNP,surber,Skillet Glacier Stream,42958,sm,2,1,Twinnia,3,5,,,,,,,,,,,,,,,,,,,4,0.186108407,0,1,2,21.5285253,4.006639552,
+GTNP,surber,NF Teton Cr,42955,sm,1,1,Twinnia,4,,,,,,,,,,,,,,,,,,,,4,0.186108407,0,1,1,10.76426265,2.003319776,
+GTNP,surber,NF Teton Cr,42955,lg,2,1,Twinnia,2,,,,,,,,,,,,,,,,,,,,2,0.026593457,0,1,1,10.76426265,0.286258954,
+GTNP,surber,NF Teton Cr,42955,sm,2,1,Twinnia,3,,,,,,,,,,,,,,,,,,,,3,0.082997108,0,1,1,10.76426265,0.893402667,
+GTNP,surber,NF Teton Cr,42955,lg,3,1,Twinnia,3,,,,,,,,,,,,,,,,,,,,3,0.082997108,0,1,1,10.76426265,0.893402667,
+GTNP,surber,NF Teton Cr,42955,sm,3,1,Twinnia,4,6,3,,,,,,,,,,,,,,,,,,4.333333333,0.232993188,0,1,3,32.29278794,7.523999626,
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Twinnia,2,,,,,,,,,,,,,,,,,,,,2,0.026593457,0,1,1,10.76426265,0.286258954,
+ABW,surber,Beartooth Cr,42923,lg,1,3,Yoraperla,9,5,,,,,,,,,,,,,,,,,,,7,4.748867402,0,1,2,7.176175099,34.078704,
+GTNP,surber,Upper SF Teton Cr,42960,lg,1,1,Zapada,4,3,2,,,,,,,,,,,,,,,,,,3,0.099225422,0,1,3,32.29278794,3.204265501,removed
+GTNP,surber,Upper SF Teton Cr,42960,sm,1,1,Zapada,2,2,3,3,2,2,2,2,3,,,,,,,,,,,,2.333333333,0.051197124,0,1,9,96.87836383,4.959893606,removed
+GTNP,surber,Upper SF Teton Cr,42960,lg,2,1,Zapada,5,,,,,,,,,,,,,,,,,,,,5,0.380847151,0,1,1,10.76426265,4.09953876,removed
+GTNP,surber,Upper SF Teton Cr,42960,sm,2,1,Zapada,2,2,2,2,3,2,,,,,,,,,,,,,,,2.166666667,0.042121448,0,1,6,64.58557589,2.720437985,removed
+GTNP,surber,Upper SF Teton Cr,42960,lg,3,1,Zapada,2,3,,,,,,,,,,,,,,,,,,,2.5,0.06139581,0,1,2,21.5285253,1.321761245,removed
+GTNP,surber,Upper SF Teton Cr,42960,sm,3,1,Zapada,2,2,2,2,2,2,2,3,3,,,,,,,,,,,,2.222222222,0.045025043,0,1,9,96.87836383,4.361952542,removed
+GTNP,surber,Wind Cave,42955,lg,1,1,Zapada,1,2,3,3,4,2,2,1,,,,,,,,,,,,,2.25,0.046522095,0,1,8,86.11410118,4.006208358,removed
+GTNP,surber,Wind Cave,42955,sm,1,1,Zapada,5,5,4,3,3,4,2,2,2,1,2,2,2,3,3,2,2,2,4,3,2.8,0.082742719,280,1,300,3229.278794,267.1993066,removed
+GTNP,surber,Wind Cave,42955,lg,2,1,Zapada,4,4,3,3,3,4,5,,,,,,,,,,,,,,3.714285714,0.174118283,0,1,7,75.34983854,13.11978449,removed
+GTNP,surber,Wind Cave,42955,sm,2,1,Zapada,3,2,2,2,3,2,2,,,,,,,,,,,,,,2.285714286,0.048491706,0,1,7,75.34983854,3.653842226,removed
+GTNP,surber,Wind Cave,42955,lg,3,1,Zapada,4,4,3,3,2,1,2,2,3,4,5,4,3,3,3,3,2,3,3,5,3.1,0.10817279,80,1,100,1076.426265,116.4400318,removed
+GTNP,surber,Wind Cave,42955,sm,3,1,Zapada,3,3,3,2,2,2,3,3,3,4,4,3,2,2,2,2,3,3,3,4,2.8,0.082742719,264,1,284,3057.050592,252.9486769,removed
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,1,1,Zapada,2,2,3,3,4,4,4,4,3,3,2,2,3,4,5,4,4,3,3,2,3.2,0.117604132,13,1,33,355.2206674,41.7754184,removed
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,1,1,Zapada,4,4,4,3,3,3,4,3,1,,,,,,,,,,,,3.222222222,0.119766702,0,1,9,96.87836383,11.60280213,removed
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,2,1,Zapada,3,3,4,4,5,,,,,,,,,,,,,,,,3.8,0.184898292,0,1,5,53.82131324,9.951468891,removed
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,2,1,Zapada,5,3,3,3,3,3,3,2,2,2,2,2,2,2,3,3,,,,,2.6875,0.074274069,0,1,16,172.2282024,12.79208944,removed
+GTNP,surber,AK Basin South Rock Glacier,42959,lg,3,1,Zapada,2,3,4,4,4,4,,,,,,,,,,,,,,,3.5,0.148899709,0,1,6,64.58557589,9.616773484,removed
+GTNP,surber,AK Basin South Rock Glacier,42959,sm,3,1,Zapada,4,5,,,,,,,,,,,,,,,,,,,4.5,0.288583329,0,1,2,21.5285253,6.212773488,removed
+GTNP,surber,Delta Inlet Stream,42952,sm,1,1,Zapada,2,2,3,4,5,2,,,,,,,,,,,,,,,3,0.099225422,0,1,6,64.58557589,6.408531001,removed
+GTNP,surber,Delta Inlet Stream,42952,lg,2,1,Zapada,6,6,5,4,5,5,4,3,3,3,2,2,4,4,4,,,,,,4,0.211634588,0,1,15,161.4639397,34.17135433,removed
+GTNP,surber,Delta Inlet Stream,42952,sm,2,1,Zapada,5,5,6,4,4,4,3,3,2,2,2,2,4,4,2,2,2,3,5,4,3.4,0.137957933,15,1,35,376.7491927,51.9755398,removed
+GTNP,surber,Delta Inlet Stream,42952,lg,3,1,Zapada,5,5,6,5,5,3,,,,,,,,,,,,,,,4.833333333,0.348324783,0,1,6,64.58557589,22.49675673,removed
+GTNP,surber,Delta Inlet Stream,42952,sm,3,1,Zapada,1,2,2,2,2,2,1,2,2,2,3,4,4,4,6,,,,,,2.6,0.068074979,0,1,15,161.4639397,10.99165427,removed
+ABW,surber,Beartooth Cr,42923,lg,1,3,Zapada,3,4,,,,,,,,,,,,,,,,,,,3.5,0.148899709,0,1,2,7.176175099,1.068530387,removed
+ABW,surber,Silver Run Snowmelt,42938,sm,1,3,Zapada,1,2,3,4,3,2,2,1,1,2,2,4,4,4,3,3,2,3,3,3,2.6,0.068074979,8,1,28,100.4664514,6.839251547,removed
+ABW,surber,Silver Run Snowmelt,42938,lg,1,3,Zapada,5,5,5,4,4,3,3,3,4,5,4,4,4,4,3,4,5,5,5,4,4.15,0.233175721,4,1,24,86.11410118,20.07971762,removed

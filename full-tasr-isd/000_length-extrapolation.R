@@ -51,6 +51,7 @@ cv |>
   geom_histogram(position = "dodge",
                  binwidth = 1)
 
+# lednia count by length measurement and rep
 cv |>
   filter(Taxa == "Lednia") |>
   pivot_longer(L1:L20) |>
@@ -58,7 +59,17 @@ cv |>
   select(Taxa, Abundance, Rep, name, value) |>
   group_by(Rep, value) |>
   count()
+# lednia count by length measurement
+cv |>
+  filter(Taxa == "Lednia") |>
+  pivot_longer(L1:L20) |>
+  filter(!is.na(value)) |>
+  select(Taxa, Abundance, Rep, name, value) |>
+  group_by(value) |>
+  count()
 
+# simulated by rep
+set.seed(1234)
 cv |>
   filter(Taxa == "Lednia") |>
   pivot_longer(L1:L20) |>
@@ -74,7 +85,7 @@ cv |>
   group_by(Rep, value) |>
   count()
 
-
+set.seed(1)
 cv |>
   filter(Taxa == "Lednia") |>
   pivot_longer(L1:L20) |>
